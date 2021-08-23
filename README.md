@@ -17,8 +17,8 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 <p align="center">
   <a href="https://github.com/alexandramartinez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&count_private=true&show_icons=true&theme=buefy&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&layout=compact&langs_count=6&theme=buefy"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&layout=compact&langs_count=6"/>
   </a>
 </p>
 
@@ -36,8 +36,8 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## MuleSoft Repos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=DataWeave-scripts&theme=buefy)](https://github.com/alexandramartinez/DataWeave-scripts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=buefy)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=buefy)](https://github.com/alexandramartinez/intro-a-dataweave)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=buefy)](https://github.com/alexandramartinez/vampireAPI)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=buefy)](https://github.com/alexandramartinez/my-process-api-munits)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=DataWeave-scripts)](https://github.com/alexandramartinez/DataWeave-scripts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave)](https://github.com/alexandramartinez/intro-a-dataweave)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI)](https://github.com/alexandramartinez/vampireAPI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits)](https://github.com/alexandramartinez/my-process-api-munits)
