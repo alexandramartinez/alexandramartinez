@@ -1,6 +1,6 @@
 # Hi, I'm Alex!
 
-I'm a Software Engineer who started creating content and is now a Developer Advocate at [MuleSoft](https://www.mulesoft.com/)!
+I'm a Software Engineer who started creating content and is now a Developer Advocate!
 
 - 🇲🇽 in 🇨🇦
 - 🐱 🐶 Eris & Waffle
