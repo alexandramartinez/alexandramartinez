@@ -13,12 +13,6 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - Founder & Content Creator at [ProstDev](https://www.prostdev.com/)
 - Lead at [Women Who Code Monterrey](https://www.womenwhocode.com/monterrey)
 
-I have 9+ years of experience as a software developer. I learned MuleSoft as part of my job and I've been in love ever since.
-
-I started creating content as a hobby and I liked it so much that I created [ProstDev](https://www.prostdev.com/). I now help other professionals to create their own content!
-
-I believe education should be fun. Learning new technologies shouldn't be hard. My mission is to teach complex concepts in a simple way and help people on their tech journey.
-
 ## ⭐️ GitHub Stats
 
 <p align="center">
