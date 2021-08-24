@@ -13,6 +13,10 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - Founder & Content Creator at [ProstDev](https://www.prostdev.com/)
 - Lead at [Women Who Code Monterrey](https://www.womenwhocode.com/monterrey)
 
+## 📝 Latest Content
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 ## ⭐️ GitHub Stats
 
 <p align="center">
