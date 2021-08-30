@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [Newsletter #1 - Just getting started!](https://www.alexandramartinez.world/post/newsletter-1-just-getting-started)
 - [Women Who Mule - Workshop series: Create your own blog from scratch without a single line of code!](https://www.alexandramartinez.world/post/women-who-mule-workshop-series-create-your-own-blog-from-scratch-without-a-single-line-of-code)
 - [Gym Diaries Part 1: Ouch!](https://www.alexandramartinez.world/post/gym-diaries-part-1-ouch)
 - [Series: MuleSoft Swag](https://www.alexandramartinez.world/post/series-mulesoft-swag)
 - [Recommendation: Logitech MX Ergo Advanced (Plus) Wireless Trackball Mouse](https://www.alexandramartinez.world/post/recommendation-logitech-mx-ergo-advanced-plus-wireless-trackball-mouse)
-- [Recomendación: Logitech MX Ergo Advanced (Plus) Wireless Trackball Mouse](https://www.alexandramartinez.world/post/recomendacion-logitech-mx-ergo-advanced-plus-wireless-trackball-mouse)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
