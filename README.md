@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [Engineer to Engineer: How Saying Yes Led to Leadership and Fulfillment](https://www.alexandramartinez.world/post/engineer-to-engineer-how-saying-yes-led-to-leadership-and-fulfillment)
 - [Newsletter #3 - The calm before the storm](https://www.alexandramartinez.world/post/newsletter-3-the-calm-before-the-storm)
 - [How I’m using Polywork to keep track of my activities as a Developer Advocate and Content Creator](https://www.alexandramartinez.world/post/how-i-m-using-polywork-to-keep-track-of-my-activities-as-a-developer-advocate-and-content-creator)
 - [Newsletter #2 - You all made my week](https://www.alexandramartinez.world/post/newsletter-2-you-all-made-my-week)
 - [Gym Diaries Part 2: First 4-day record!](https://www.alexandramartinez.world/post/gym-diaries-part-2-first-4-day-record)
-- [Newsletter #1 - Just getting started!](https://www.alexandramartinez.world/post/newsletter-1-just-getting-started)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
