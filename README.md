@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [How to create a README file for your GitHub profile, part 2: Markdown basics](https://www.alexandramartinez.world/post/how-to-create-a-readme-file-for-your-github-profile-part-2-markdown-basics)
 - [Newsletter #5 - Changing it up a bit](https://www.alexandramartinez.world/post/newsletter-5-changing-it-up-a-bit)
 - [Women Who Mule - Workshop series #2: Ghost](https://www.alexandramartinez.world/post/women-who-mule-workshop-series-2-ghost)
 - [Newsletter #4 - Unleash the news!](https://www.alexandramartinez.world/post/newsletter-4-unleash-the-news)
 - [Gym Diaries Part 3: All the pain](https://www.alexandramartinez.world/post/gym-diaries-part-3-all-the-pain)
-- [How to create a README file for your GitHub profile, part 1: Intro to Git, GitHub, and README files](https://www.alexandramartinez.world/post/how-to-create-a-readme-file-for-your-github-profile-part-1-intro-to-git-github-and-readme-files)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
