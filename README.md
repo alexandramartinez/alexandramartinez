@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [DataWeave log function | #Codetober 2021 Day 1](https://www.alexandramartinez.world/post/dataweave-log-function-codetober-2021-day-1)
 - [Women Who Mule - Workshop series: Create your own blog from scratch without a single line of code!](https://www.alexandramartinez.world/post/women-who-mule-workshop-series-create-your-own-blog-from-scratch-without-a-single-line-of-code-1)
 - [How to create a README file for your GitHub profile, part 2: Markdown basics](https://www.alexandramartinez.world/post/how-to-create-a-readme-file-for-your-github-profile-part-2-markdown-basics)
 - [Newsletter #5 - Changing it up a bit](https://www.alexandramartinez.world/post/newsletter-5-changing-it-up-a-bit)
 - [Women Who Mule - Workshop series #2: Ghost](https://www.alexandramartinez.world/post/women-who-mule-workshop-series-2-ghost)
-- [Newsletter #4 - Unleash the news!](https://www.alexandramartinez.world/post/newsletter-4-unleash-the-news)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
