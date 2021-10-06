@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [DataWeave update operator | #Codetober 2021 Day 6](https://www.alexandramartinez.world/post/dataweave-update-operator-codetober-2021-day-6)
 - [DataWeave update function | #Codetober 2021 Day 5](https://www.alexandramartinez.world/post/dataweave-update-function-codetober-2021-day-5)
 - [DataWeave Scripts Repo: Utilities | #Codetober 2021 Day 4](https://www.alexandramartinez.world/post/dataweave-scripts-repo-utilities-codetober-2021-day-4)
 - [Newsletter #6 - IT'S OCTOBER!!!](https://www.alexandramartinez.world/post/newsletter-6-it-s-october)
 - [DataWeave Epoch Time | #Codetober 2021 Day 3](https://www.alexandramartinez.world/post/dataweave-epoch-time-codetober-2021-day-3)
-- [DataWeave now function | #Codetober 2021 Day 2](https://www.alexandramartinez.world/post/dataweave-now-function-codetober-2021-day-2)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
