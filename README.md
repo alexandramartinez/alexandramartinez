@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [Recursive vs. Tail Recursive functions in DataWeave | #Codetober 2021 Day 11](https://www.alexandramartinez.world/post/recursive-vs-tail-recursive-functions-in-dataweave-codetober-2021-day-11)
 - [DataWeave Scripts Repo: addIndexTailRecursive tail recursive function | #Codetober 2021 Day 10](https://www.alexandramartinez.world/post/dataweave-scripts-repo-addindextailrecursive-tail-recursive-function-codetober-2021-day-10)
 - [DataWeave Scripts Repo: getChildren recursive function | #Codetober 2021 Day 9](https://www.alexandramartinez.world/post/dataweave-scripts-repo-getchildren-recursive-function-codetober-2021-day-9)
 - [DataWeave output directive | #Codetober 2021 Day 8](https://www.alexandramartinez.world/post/dataweave-output-directive-codetober-2021-day-8)
 - [DataWeave input directive | #Codetober 2021 Day 7](https://www.alexandramartinez.world/post/dataweave-input-directive-codetober-2021-day-7)
-- [[Twitch Stream] Creating a custom Slack app with MuleSoft from scratch!](https://www.alexandramartinez.world/post/twitch-stream-creating-a-custom-slack-app-with-mulesoft-from-scratch)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
