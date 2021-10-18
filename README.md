@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [DataWeave splitBy function | #Codetober 2021 Day 18](https://www.alexandramartinez.world/post/dataweave-splitby-function-codetober-2021-day-18)
 - [DataWeave Scripts Repo: filterValueByConditions tail recursive function | #Codetober 2021 Day 17](https://www.alexandramartinez.world/post/dataweave-scripts-repo-filtervaluebyconditions-tail-recursive-function-codetober-2021-day-17)
 - [DataWeave scan function | #Codetober 2021 Day 16](https://www.alexandramartinez.world/post/dataweave-scan-function-codetober-2021-day-16)
 - [DataWeave substringAfter function (Strings module) | #Codetober 2021 Day 15](https://www.alexandramartinez.world/post/dataweave-substringafter-function-strings-module-codetober-2021-day-15)
 - [DataWeave isNumeric function (Strings module) | #Codetober 2021 Day 14](https://www.alexandramartinez.world/post/dataweave-isnumeric-function-strings-module-codetober-2021-day-14)
-- [Women Who Mule - Workshop series #2: Ghost](https://www.alexandramartinez.world/post/women-who-mule-workshop-series-2-ghost-1)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
