@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [DataWeave typeOf function | #Codetober 2021 Day 22](https://www.alexandramartinez.world/post/dataweave-typeof-function-codetober-2021-day-22)
 - [DataWeave Scripts Repo: extractPathWithFilters tail recursive function | #Codetober 2021 Day 21](https://www.alexandramartinez.world/post/dataweave-scripts-repo-extractpathwithfilters-tail-recursive-function-codetober-2021-day-21)
 - [DataWeave ~= (equal-ish) operator | #Codetober 2021 Day 20](https://www.alexandramartinez.world/post/dataweave-~-equal-ish-operator-codetober-2021-day-20)
 - [DataWeave filter function | #Codetober 2021 Day 19](https://www.alexandramartinez.world/post/dataweave-filter-function-codetober-2021-day-19)
 - [DataWeave splitBy function | #Codetober 2021 Day 18](https://www.alexandramartinez.world/post/dataweave-splitby-function-codetober-2021-day-18)
-- [DataWeave Scripts Repo: filterValueByConditions tail recursive function | #Codetober 2021 Day 17](https://www.alexandramartinez.world/post/dataweave-scripts-repo-filtervaluebyconditions-tail-recursive-function-codetober-2021-day-17)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
