@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [DataWeave mapLeafValues function (Tree module) | #Codetober 2021 Day 25](https://www.alexandramartinez.world/post/dataweave-mapleafvalues-function-tree-module-codetober-2021-day-25)
 - [DataWeave Scripts Repo: maskFields function | #Codetober 2021 Day 24](https://www.alexandramartinez.world/post/dataweave-scripts-repo-maskfields-function-codetober-2021-day-24)
 - [DataWeave match/case (Pattern Matching) | #Codetober 2021 Day 23](https://www.alexandramartinez.world/post/dataweave-match-case-pattern-matching-codetober-2021-day-23)
 - [DataWeave typeOf function | #Codetober 2021 Day 22](https://www.alexandramartinez.world/post/dataweave-typeof-function-codetober-2021-day-22)
 - [DataWeave Scripts Repo: extractPathWithFilters tail recursive function | #Codetober 2021 Day 21](https://www.alexandramartinez.world/post/dataweave-scripts-repo-extractpathwithfilters-tail-recursive-function-codetober-2021-day-21)
-- [DataWeave ~= (equal-ish) operator | #Codetober 2021 Day 20](https://www.alexandramartinez.world/post/dataweave-~-equal-ish-operator-codetober-2021-day-20)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
