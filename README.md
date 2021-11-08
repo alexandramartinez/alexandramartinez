@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
-- [It's a wrap! Check out some additional resources! | #Codetober 2021 Day 31](https://www.alexandramartinez.world/post/it-s-a-wrap-check-out-some-additional-resources-codetober-2021-day-31)
+- [It&#39;s a wrap! Check out some additional resources! | #Codetober 2021 Day 31](https://www.alexandramartinez.world/post/it-s-a-wrap-check-out-some-additional-resources-codetober-2021-day-31)
 - [Function Overloading in DataWeave | #Codetober 2021 Day 30](https://www.alexandramartinez.world/post/function-overloading-in-dataweave-codetober-2021-day-30)
 - [DataWeave mod function | #Codetober 2021 Day 29](https://www.alexandramartinez.world/post/dataweave-mod-function-codetober-2021-day-29)
-- [DataWeave every function (Arrays module) | #Codetober 2021 Day 28](https://www.alexandramartinez.world/post/dataweave-every-function-arrays-module-codetober-2021-day-28)
-- [DataWeave some function (Arrays module) | #Codetober 2021 Day 27](https://www.alexandramartinez.world/post/dataweave-some-function-arrays-module-codetober-2021-day-27)
+- [DataWeave every function &lpar;Arrays module&rpar; | #Codetober 2021 Day 28](https://www.alexandramartinez.world/post/dataweave-every-function-arrays-module-codetober-2021-day-28)
+- [DataWeave some function &lpar;Arrays module&rpar; | #Codetober 2021 Day 27](https://www.alexandramartinez.world/post/dataweave-some-function-arrays-module-codetober-2021-day-27)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
