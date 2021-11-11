@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [[Tutorial] How to set up your global elements and properties files in Anypoint Studio](https://www.alexandramartinez.world/post/tutorial-how-to-set-up-your-global-elements-and-properties-files-in-anypoint-studio)
 - [Build your first Hello Mule application | Getting Started with MuleSoft](https://www.alexandramartinez.world/post/build-your-first-hello-mule-application-getting-started-with-mulesoft)
 - [[Tutorial] Build your first Hello Mule application](https://www.alexandramartinez.world/post/tutorial-build-your-first-hello-mule-application)
 - [It&#39;s a wrap! Check out some additional resources! | #Codetober 2021 Day 31](https://www.alexandramartinez.world/post/it-s-a-wrap-check-out-some-additional-resources-codetober-2021-day-31)
 - [Function Overloading in DataWeave | #Codetober 2021 Day 30](https://www.alexandramartinez.world/post/function-overloading-in-dataweave-codetober-2021-day-30)
-- [DataWeave mod function | #Codetober 2021 Day 29](https://www.alexandramartinez.world/post/dataweave-mod-function-codetober-2021-day-29)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
