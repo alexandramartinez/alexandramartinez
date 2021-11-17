@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [[Tutorial] How to set up API Autodiscovery in Anypoint Studio](https://www.alexandramartinez.world/post/tutorial-how-to-set-up-api-autodiscovery-in-anypoint-studio)
 - [How to secure properties before deployment in Anypoint Studio | Getting Started with MuleSoft](https://www.alexandramartinez.world/post/how-to-secure-properties-before-deployment-in-anypoint-studio-getting-started-with-mulesoft)
 - [[Tutorial] How to secure properties before deployment in Anypoint Studio](https://www.alexandramartinez.world/post/tutorial-how-to-secure-properties-before-deployment-in-anypoint-studio)
 - [How to set up your global elements and properties files in Anypoint Studio | Getting Started](https://www.alexandramartinez.world/post/how-to-set-up-your-global-elements-and-properties-files-in-anypoint-studio-getting-started)
 - [[Tutorial] How to set up your global elements and properties files in Anypoint Studio](https://www.alexandramartinez.world/post/tutorial-how-to-set-up-your-global-elements-and-properties-files-in-anypoint-studio)
-- [Build your first Hello Mule application | Getting Started with MuleSoft](https://www.alexandramartinez.world/post/build-your-first-hello-mule-application-getting-started-with-mulesoft)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
