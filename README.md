@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [How to apply Client ID enforcement policy to your Mule app in API Manager | Getting Started MuleSoft](https://www.alexandramartinez.world/post/how-to-apply-client-id-enforcement-policy-to-your-mule-app-in-api-manager-getting-started-mulesoft)
 - [[Tutorial] How to apply Client ID enforcement policy to your Mule app in API Manager](https://www.alexandramartinez.world/post/tutorial-how-to-apply-client-id-enforcement-policy-to-your-mule-app-in-api-manager)
 - [How to set up API Autodiscovery in Anypoint Studio | Getting Started with MuleSoft](https://www.alexandramartinez.world/post/how-to-set-up-api-autodiscovery-in-anypoint-studio-getting-started-with-mulesoft)
 - [[Tutorial] How to set up API Autodiscovery in Anypoint Studio](https://www.alexandramartinez.world/post/tutorial-how-to-set-up-api-autodiscovery-in-anypoint-studio)
 - [How to secure properties before deployment in Anypoint Studio | Getting Started with MuleSoft](https://www.alexandramartinez.world/post/how-to-secure-properties-before-deployment-in-anypoint-studio-getting-started-with-mulesoft)
-- [[Tutorial] How to secure properties before deployment in Anypoint Studio](https://www.alexandramartinez.world/post/tutorial-how-to-secure-properties-before-deployment-in-anypoint-studio)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
