@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
-- [How MuleSoft has made my life easier](https://www.alexandramartinez.world/post/how-mulesoft-has-made-my-life-easier)
-- [[Twitch Stream] Create your first API Specification with the visual API Designer](https://www.alexandramartinez.world/post/twitch-stream-create-your-first-api-specification-with-the-visual-api-designer)
-- [Gym Diaries Part 4: Nope!](https://www.alexandramartinez.world/post/gym-diaries-part-4-nope)
-- [[Demo] Anypoint Flex Gateway &lpar;presented at MuleSoft TRANSFORM&rpar;](https://www.alexandramartinez.world/post/demo-anypoint-flex-gateway-presented-at-mulesoft-transform)
-- [How to apply Client ID enforcement policy to your Mule app in API Manager | Getting Started MuleSoft](https://www.alexandramartinez.world/post/how-to-apply-client-id-enforcement-policy-to-your-mule-app-in-api-manager-getting-started-mulesoft)
+- [How MuleSoft has made my life easier](https://www.alexandramartinez.world//post/how-mulesoft-has-made-my-life-easier)
+- [[Twitch Stream] Create your first API Specification with the visual API Designer](https://www.alexandramartinez.world//post/twitch-stream-create-your-first-api-specification-with-the-visual-api-designer)
+- [Gym Diaries Part 4: Nope!](https://www.alexandramartinez.world//post/gym-diaries-part-4-nope)
+- [[Demo] Anypoint Flex Gateway &lpar;presented at MuleSoft TRANSFORM&rpar;](https://www.alexandramartinez.world//post/demo-anypoint-flex-gateway-presented-at-mulesoft-transform)
+- [How to apply Client ID enforcement policy to your Mule app in API Manager | Getting Started MuleSoft](https://www.alexandramartinez.world//post/how-to-apply-client-id-enforcement-policy-to-your-mule-app-in-api-manager-getting-started-mulesoft)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
