@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
-- [Video Game Ratings: Spyro Reignited Trilogy &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-spyro-reignited-trilogy-personal-review)
-- [Video Game Ratings: Crash Bandicoot N. Sane Trilogy &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-crash-bandicoot-n-sane-trilogy-personal-review)
-- [Top 10 MuleSoft Community blogs of 2021](https://www.alexandramartinez.world//post/top-10-mulesoft-community-blogs-of-2021)
-- [How MuleSoft has made my life easier](https://www.alexandramartinez.world//post/how-mulesoft-has-made-my-life-easier)
-- [[Twitch Stream] Create your first API Specification with the visual API Designer](https://www.alexandramartinez.world//post/twitch-stream-create-your-first-api-specification-with-the-visual-api-designer)
+- [Video Game Ratings: The Legend of Zelda Breath of the Wild &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-the-legend-of-zelda-breath-of-the-wild-personal-review)
+- [Video Game Ratings: Nintendo Labo - Robot Kit &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-nintendo-labo-robot-kit-personal-review)
+- [Video Game Ratings: Yoshi&#39;s Crafted World &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-yoshi-s-crafted-world-personal-review)
+- [Video Game Ratings: Donkey Kong Country Tropical Freeze &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-donkey-kong-country-tropical-freeze-personal-review)
+- [Video Game Ratings: Bad Dream Fever &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-bad-dream-fever-personal-review)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
