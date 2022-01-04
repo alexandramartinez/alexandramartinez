@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
-- [Video Game Ratings: The Legend of Zelda Breath of the Wild &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-the-legend-of-zelda-breath-of-the-wild-personal-review)
-- [Video Game Ratings: Nintendo Labo - Robot Kit &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-nintendo-labo-robot-kit-personal-review)
-- [Video Game Ratings: Yoshi&#39;s Crafted World &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-yoshi-s-crafted-world-personal-review)
-- [Video Game Ratings: Donkey Kong Country Tropical Freeze &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-donkey-kong-country-tropical-freeze-personal-review)
-- [Video Game Ratings: Bad Dream Fever &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-bad-dream-fever-personal-review)
+- [Video Game Ratings: Pokémon: Let&#39;s Go, Eevee! &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-pokémon-let-s-go-eevee-personal-review)
+- [Video Game Ratings: Horizon Zero Dawn &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-horizon-zero-dawn-personal-review)
+- [Video Game Ratings: God of War 4 &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-god-of-war-4-personal-review)
+- [Video Game Ratings: Uncharted 4: A Thief&#39;s End &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-uncharted-4-a-thief-s-end-personal-review)
+- [Video Game Ratings: Mario Kart 8 Deluxe &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-mario-kart-8-deluxe-personal-review)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
