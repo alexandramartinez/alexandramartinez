@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [Video Game Ratings: Spyro Reignited Trilogy &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-spyro-reignited-trilogy-personal-review)
+- [Video Game Ratings: Crash Bandicoot N. Sane Trilogy &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-crash-bandicoot-n-sane-trilogy-personal-review)
 - [Top 10 MuleSoft Community blogs of 2021](https://www.alexandramartinez.world//post/top-10-mulesoft-community-blogs-of-2021)
 - [How MuleSoft has made my life easier](https://www.alexandramartinez.world//post/how-mulesoft-has-made-my-life-easier)
 - [[Twitch Stream] Create your first API Specification with the visual API Designer](https://www.alexandramartinez.world//post/twitch-stream-create-your-first-api-specification-with-the-visual-api-designer)
-- [Gym Diaries Part 4: Nope!](https://www.alexandramartinez.world//post/gym-diaries-part-4-nope)
-- [[Demo] Anypoint Flex Gateway &lpar;presented at MuleSoft TRANSFORM&rpar;](https://www.alexandramartinez.world//post/demo-anypoint-flex-gateway-presented-at-mulesoft-transform)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
