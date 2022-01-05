@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [#Codetober 2021 - 31 days of DataWeave learning!](https://www.alexandramartinez.world//post/codetober-2021-31-days-of-dataweave-learning)
 - [Top 10 MuleSoft Community blogs of 2021](https://www.alexandramartinez.world//post/top-10-mulesoft-community-blogs-of-2021)
 - [How MuleSoft has made my life easier](https://www.alexandramartinez.world//post/how-mulesoft-has-made-my-life-easier)
 - [[Twitch Stream] Create your first API Specification with the visual API Designer](https://www.alexandramartinez.world//post/twitch-stream-create-your-first-api-specification-with-the-visual-api-designer)
 - [Gym Diaries Part 4: Nope!](https://www.alexandramartinez.world//post/gym-diaries-part-4-nope)
-- [Video Game Ratings: Life is Strange: Before the Storm &lpar;Personal Review&rpar;](https://www.alexandramartinez.world//post/video-game-ratings-life-is-strange-before-the-storm-personal-review)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
