@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [[Twitch Stream] Let&#39;s play with the Mule SDK with Manik Magar!](https://www.alexandramartinez.world/post/twitch-stream-let-s-play-with-the-mule-sdk-with-manik-magar)
 - [[IG Live] Let&#39;s have a virtual coffee and ask questions!](https://www.alexandramartinez.world/post/ig-live-let-s-have-a-virtual-coffee-and-ask-questions)
 - [[IG Live] My first live! Showing off my broken mouse and answering questions](https://www.alexandramartinez.world/post/ig-live-my-first-live-showing-off-my-broken-mouse-and-answering-questions)
 - [What are she/they pronouns and why I decided to use them now](https://www.alexandramartinez.world/post/what-are-she-they-pronouns-and-why-i-decided-to-use-them-now)
 - [Cómo ser más productiva&lpar;o/e&rpar;: Haciendo una lista de tus prioridades](https://www.alexandramartinez.world/post/como-ser-mas-productiva-o-e-haciendo-una-lista-de-tus-prioridades)
-- [How to be more productive: Set your priorities straight](https://www.alexandramartinez.world/post/how-to-be-more-productive-set-your-priorities-straight)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
