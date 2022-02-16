@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [[SPANISH] Panel: Retos y oportunidades en el área STEM desde la perspectiva de género](https://www.alexandramartinez.world/post/spanish-panel-retos-y-oportunidades-en-el-área-stem-desde-la-perspectiva-de-género)
 - [[Twitch Stream] Creating a Slack integration with MuleSoft&#39;s Flow Designer from scratch!](https://www.alexandramartinez.world/post/twitch-stream-creating-a-slack-integration-with-mulesoft-s-flow-designer-from-scratch)
 - [[SPANISH Event] Panel: Retos y oportunidades en el área STEM desde la perspectiva de género](https://www.alexandramartinez.world/post/spanish-event-panel-retos-y-oportunidades-en-el-área-stem-desde-la-perspectiva-de-género)
 - [[IG Reel] Convert RAML &lt;&gt; JSON schema with this tool - ramldt2jsonschema](https://www.alexandramartinez.world/post/ig-reel-convert-raml-json-schema-with-this-tool-ramldt2jsonschema)
 - [[IG Reel] How to get involved with the MuleSoft Community](https://www.alexandramartinez.world/post/ig-reel-how-to-get-involved-with-the-mulesoft-community)
-- [[Twitch Stream] Let&#39;s play with the Mule SDK with Manik Magar!](https://www.alexandramartinez.world/post/twitch-stream-let-s-play-with-the-mule-sdk-with-manik-magar)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
