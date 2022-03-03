@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [Hardware for your video recording or live streaming: microphones, webcams, pop filters, arms, lights](https://www.alexandramartinez.world/post/hardware-for-your-video-recording-or-live-streaming-microphones-webcams-pop-filters-arms-lights)
 - [Optimizing Work with MuleSoft! - How to integrate Slack + MuleSoft to increase productivity](https://www.alexandramartinez.world/post/optimizing-work-with-mulesoft-how-to-integrate-slack-mulesoft-to-increase-productivity)
 - [Learn MuleSoft with these community resources for beginners](https://www.alexandramartinez.world/post/learn-mulesoft-with-these-community-resources-for-beginners)
 - [[Twitch Stream] Building a Slack modal with MuleSoft!](https://www.alexandramartinez.world/post/twitch-stream-building-a-slack-modal-with-mulesoft)
 - [[Online Event] Optimizing Work with MuleSoft!](https://www.alexandramartinez.world/post/online-event-optimizing-work-with-mulesoft)
-- [[Twitch Stream] Let&#39;s try out the Amazon EKS tutorial for Runtime Fabric!](https://www.alexandramartinez.world/post/twitch-stream-let-s-try-out-the-amazon-eks-tutorial-for-runtime-fabric)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
