@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [Runtime Fabric on Amazon Elastic Kubernetes Service | MuleSoft Twitch Live Stream Highlights](https://www.alexandramartinez.world/post/runtime-fabric-on-amazon-elastic-kubernetes-service-mulesoft-twitch-live-stream-highlights)
 - [[Twitch Stream] EKS tutorial for Runtime Fabric - Part 2](https://www.alexandramartinez.world/post/twitch-stream-eks-tutorial-for-runtime-fabric-part-2)
 - [¿Qué es MuleSoft? - Crónicas de Salesforce con Sara Hernandez ENESPAÑOL](https://www.alexandramartinez.world/post/que-es-mulesoft-cronicas-de-salesforce-con-sara-hernandez-enespanol)
 - [Hardware for your video recording or live streaming: microphones, webcams, pop filters, arms, lights](https://www.alexandramartinez.world/post/hardware-for-your-video-recording-or-live-streaming-microphones-webcams-pop-filters-arms-lights)
 - [Optimizing Work with MuleSoft! - How to integrate Slack + MuleSoft to increase productivity](https://www.alexandramartinez.world/post/optimizing-work-with-mulesoft-how-to-integrate-slack-mulesoft-to-increase-productivity)
-- [Learn MuleSoft with these community resources for beginners](https://www.alexandramartinez.world/post/learn-mulesoft-with-these-community-resources-for-beginners)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
