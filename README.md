@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [7 developer tutorials to get started with MuleSoft](https://www.alexandramartinez.world/post/7-developer-tutorials-to-get-started-with-mulesoft)
 - [[Twitch Stream] How to use the map and reduce functions in DataWeave](https://www.alexandramartinez.world/post/twitch-stream-how-to-use-the-map-and-reduce-functions-in-dataweave)
 - [Video Game Ratings: Life is Strange 2 &lpar;Personal Review&rpar;](https://www.alexandramartinez.world/post/video-game-ratings-life-is-strange-2-personal-review)
 - [Runtime Fabric on Amazon Elastic Kubernetes Service | MuleSoft Twitch Live Stream Highlights](https://www.alexandramartinez.world/post/runtime-fabric-on-amazon-elastic-kubernetes-service-mulesoft-twitch-live-stream-highlights)
 - [[Twitch Stream] EKS tutorial for Runtime Fabric - Part 2](https://www.alexandramartinez.world/post/twitch-stream-eks-tutorial-for-runtime-fabric-part-2)
-- [¿Qué es MuleSoft? - Crónicas de Salesforce con Sara Hernandez ENESPAÑOL](https://www.alexandramartinez.world/post/que-es-mulesoft-cronicas-de-salesforce-con-sara-hernandez-enespanol)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
