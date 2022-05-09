@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [Lights...camera... BLOOPERS!](https://www.alexandramartinez.world/post/lights-camera-bloopers)
 - [Video Game Ratings: Life is Strange: True Colors &lpar;Personal Review&rpar;](https://www.alexandramartinez.world/post/video-game-ratings-life-is-strange-true-colors-personal-review)
 - [Community Leaders Summit &lpar;CLS&rpar; video contest winners!](https://www.alexandramartinez.world/post/community-leaders-summit-cls-video-contest-winners)
 - [How I got to read more books &lpar;from 2 books in 2021 to 4 books in the last month!&rpar;](https://www.alexandramartinez.world/post/how-i-got-to-read-more-books-from-2-books-in-2021-to-4-books-in-the-last-month)
 - [7 developer tutorials to get started with MuleSoft](https://www.alexandramartinez.world/post/7-developer-tutorials-to-get-started-with-mulesoft)
-- [[Twitch Stream] How to use the map and reduce functions in DataWeave](https://www.alexandramartinez.world/post/twitch-stream-how-to-use-the-map-and-reduce-functions-in-dataweave)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
