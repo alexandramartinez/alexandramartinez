@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 📝 Latest Content
 <!-- BLOG:START -->
+- [[Twitch Stream] Interview with the Golden Hoodies Miguel Martinez and Sarah Khalid](https://www.alexandramartinez.world/post/twitch-stream-interview-with-the-golden-hoodies-miguel-martinez-and-sarah-khalid)
 - [Video Game Ratings: Little Nightmares 2 &lpar;Personal Review&rpar;](https://www.alexandramartinez.world/post/video-game-ratings-little-nightmares-2-personal-review)
 - [Lights...camera... BLOOPERS!](https://www.alexandramartinez.world/post/lights-camera-bloopers)
 - [Video Game Ratings: Life is Strange: True Colors &lpar;Personal Review&rpar;](https://www.alexandramartinez.world/post/video-game-ratings-life-is-strange-true-colors-personal-review)
 - [Community Leaders Summit &lpar;CLS&rpar; video contest winners!](https://www.alexandramartinez.world/post/community-leaders-summit-cls-video-contest-winners)
-- [How I got to read more books &lpar;from 2 books in 2021 to 4 books in the last month!&rpar;](https://www.alexandramartinez.world/post/how-i-got-to-read-more-books-from-2-books-in-2021-to-4-books-in-the-last-month)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
