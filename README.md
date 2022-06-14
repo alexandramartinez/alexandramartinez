@@ -12,14 +12,16 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - Developer Advocate at [MuleSoft](https://www.mulesoft.com/)
 - Founder & Content Creator at [ProstDev](https://www.prostdev.com/)
 - Lead at [Women Who Code Monterrey](https://www.womenwhocode.com/monterrey)
-
-## 📝 Latest Content
+<!--
+## 📝 Latest Content -->
 <!-- BLOG:START -->
+<!--
 - [[Twitter Spaces] Creando tu carrera en DevRel](https://www.alexmartinez.ca/post/twitter-spaces-creando-tu-carrera-en-devrel)
 - [[Twitch Stream] Exploring Anypoint Flex Gateway with MuleSoft Ambassador Manik Magar!](https://www.alexmartinez.ca/post/twitch-stream-exploring-anypoint-flex-gateway-with-mulesoft-ambassador-manik-magar)
 - [[Twitch Stream] Interview with the Golden Hoodies Miguel Martinez and Sarah Khalid](https://www.alexmartinez.ca/post/twitch-stream-interview-with-the-golden-hoodies-miguel-martinez-and-sarah-khalid)
 - [Video Game Ratings: Little Nightmares 2 &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-little-nightmares-2-personal-review)
 - [Lights...camera... BLOOPERS!](https://www.alexmartinez.ca/post/lights-camera-bloopers)
+-->
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
