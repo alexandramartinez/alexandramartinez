@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 <!--
 ## 📝 Latest Content -->
 <!-- BLOG:START -->
+- [[Twitch Stream] GAME ON! Battlesnake with Mule and DataWeave](https://www.alexmartinez.ca/post/twitch-stream-game-on-battlesnake-with-mule-and-dataweave)
 - [[Twitch Stream] Exploring Anypoint API Governance with Alex!](https://www.alexmartinez.ca/post/twitch-stream-exploring-anypoint-api-governance-with-alex)
 - [Maneja cualquier API con MuleSoft y Anypoint Flex Gateway - JUG Mérida](https://www.alexmartinez.ca/post/maneja-cualquier-api-con-mulesoft-y-anypoint-flex-gateway-jug-m%C3%A9rida)
 - [[Twitter Spaces] Creando tu carrera en DevRel](https://www.alexmartinez.ca/post/twitter-spaces-creando-tu-carrera-en-devrel)
 - [[Twitch Stream] Exploring Anypoint Flex Gateway with MuleSoft Ambassador Manik Magar!](https://www.alexmartinez.ca/post/twitch-stream-exploring-anypoint-flex-gateway-with-mulesoft-ambassador-manik-magar)
-- [[Twitch Stream] Interview with the Golden Hoodies Miguel Martinez and Sarah Khalid](https://www.alexmartinez.ca/post/twitch-stream-interview-with-the-golden-hoodies-miguel-martinez-and-sarah-khalid)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
