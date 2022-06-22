@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 <!--
 ## 📝 Latest Content -->
 <!-- BLOG:START -->
+- [Getting started with DataWeave libraries in Anypoint Exchange | Technical Developer Tutorial](https://www.alexmartinez.ca/post/getting-started-with-dataweave-libraries-in-anypoint-exchange-technical-developer-tutorial)
+- [Getting started with the DataWeave extension for Visual Studio Code | VSCode Technical Tutorial](https://www.alexmartinez.ca/post/getting-started-with-the-dataweave-extension-for-visual-studio-code-vscode-technical-tutorial)
 - [[Twitch Stream] GAME ON! Battlesnake with Mule and DataWeave](https://www.alexmartinez.ca/post/twitch-stream-game-on-battlesnake-with-mule-and-dataweave)
 - [[Twitch Stream] Exploring Anypoint API Governance with Alex!](https://www.alexmartinez.ca/post/twitch-stream-exploring-anypoint-api-governance-with-alex)
 - [Maneja cualquier API con MuleSoft y Anypoint Flex Gateway - JUG Mérida](https://www.alexmartinez.ca/post/maneja-cualquier-api-con-mulesoft-y-anypoint-flex-gateway-jug-m%C3%A9rida)
-- [[Twitter Spaces] Creando tu carrera en DevRel](https://www.alexmartinez.ca/post/twitter-spaces-creando-tu-carrera-en-devrel)
-- [[Twitch Stream] Exploring Anypoint Flex Gateway with MuleSoft Ambassador Manik Magar!](https://www.alexmartinez.ca/post/twitch-stream-exploring-anypoint-flex-gateway-with-mulesoft-ambassador-manik-magar)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
