@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 <!--
 ## 📝 Latest Content -->
 <!-- BLOG:START -->
+- [[Twitch stream] Exploring products: Flex Gateway with MuleSoft Ambassador Jitendra Bafna!](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-flex-gateway-with-mulesoft-ambassador-jitendra-bafna)
 - [[Twitch stream] Exploring products: Let&#39;s learn some DataWeave with Akshata Sawant!](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-let-s-learn-some-dataweave-with-akshata-sawant)
 - [[Twitch Stream] Setting up MuleSoft CI/CD with GitHub actions! &lpar;Part 2&rpar;](https://www.alexmartinez.ca/post/twitch-stream-setting-up-mulesoft-ci-cd-with-github-actions-part-2)
 - [[Twitch Stream] Exploring products: Talk DataWeave to me - with Mariano de Achaval!](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-talk-dataweave-to-me-with-mariano-de-achaval)
 - [[Twitch Stream] Exploring products: DataWeave extension for VSCode](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-dataweave-extension-for-vscode)
-- [[Twitch Stream] Exploring MuleSoft for Salesforce CDP with Allyson Hepp and Priya Singh](https://www.alexmartinez.ca/post/twitch-stream-exploring-mulesoft-for-salesforce-cdp-with-allyson-hepp-and-priya-singh)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
