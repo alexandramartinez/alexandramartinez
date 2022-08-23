@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 <!--
 ## 📝 Latest Content -->
 <!-- BLOG:START -->
+- [Software for your video recording or live streaming: local and web-based](https://www.alexmartinez.ca/post/software-for-your-video-recording-or-live-streaming-local-and-web-based)
 - [[Tutorial] How to install Anypoint Flex Gateway in connected mode as a Kubernetes Ingress Controller](https://www.alexmartinez.ca/post/tutorial-how-to-install-anypoint-flex-gateway-in-connected-mode-as-a-kubernetes-ingress-controller)
 - [[Panel discussion] Latinas in Tech ~ Engineering a Values-Driven Career](https://www.alexmartinez.ca/post/panel-discussion-latinas-in-tech-~-engineering-a-values-driven-career)
 - [[Twitch stream] Exploring products: DataWeave extension and GitHub actions with Alex!](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-dataweave-extension-and-github-actions-with-alex)
 - [[Twitch stream] Exploring products: Flex Gateway with MuleSoft Ambassador Jitendra Bafna!](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-flex-gateway-with-mulesoft-ambassador-jitendra-bafna)
-- [[Twitch stream] Exploring products: Let&#39;s learn some DataWeave with Akshata Sawant!](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-let-s-learn-some-dataweave-with-akshata-sawant)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
