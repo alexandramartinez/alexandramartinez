@@ -15,11 +15,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 <!--
 ## 📝 Latest Content -->
 <!-- BLOG:START -->
+- [How to import a script from Visual Studio Code to the DataWeave Playground | Short Tutorial](https://www.alexmartinez.ca/post/how-to-import-a-script-from-visual-studio-code-to-the-dataweave-playground-short-tutorial)
+- [How to export a script from the DataWeave Playground to Visual Studio Code | Short Tutorial](https://www.alexmartinez.ca/post/how-to-export-a-script-from-the-dataweave-playground-to-visual-studio-code-short-tutorial)
 - [1.6 - No me da la vida para hablar de developer advocates con Alex Martinez](https://www.alexmartinez.ca/post/1-6-no-me-da-la-vida-para-hablar-de-developer-advocates-con-alex-martinez)
 - [Software for your video recording or live streaming: local and web-based](https://www.alexmartinez.ca/post/software-for-your-video-recording-or-live-streaming-local-and-web-based)
 - [[Tutorial] How to install Anypoint Flex Gateway in connected mode as a Kubernetes Ingress Controller](https://www.alexmartinez.ca/post/tutorial-how-to-install-anypoint-flex-gateway-in-connected-mode-as-a-kubernetes-ingress-controller)
-- [[Panel discussion] Latinas in Tech ~ Engineering a Values-Driven Career](https://www.alexmartinez.ca/post/panel-discussion-latinas-in-tech-~-engineering-a-values-driven-career)
-- [[Twitch stream] Exploring products: DataWeave extension and GitHub actions with Alex!](https://www.alexmartinez.ca/post/twitch-stream-exploring-products-dataweave-extension-and-github-actions-with-alex)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
