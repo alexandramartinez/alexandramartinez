@@ -14,13 +14,12 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - Lead at [Women Who Code Monterrey](https://www.womenwhocode.com/monterrey)
 
 <p align="center">
-  <a href="https://www.alexandramartinez.world"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
+  <a href="https://www.alexmartinez.ca/"><img src="https://img.shields.io/badge/-Website-blueviolet?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/alexandra-n-martinez/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/devalexmartinez"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.facebook.com/devalexmartinez"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/devalexmartinez/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.polywork.com/devalexmartinez"><img src="https://img.shields.io/badge/-Polywork-blueviolet?style=for-the-badge&logo=Polywork&logoColor=white"/></a>
-  <a href="https://www.alexandramartinez.world/links"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
+  <a href="https://www.alexmartinez.ca/links"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
 </p>
 
 ## 📝 Latest Content
