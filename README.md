@@ -45,11 +45,19 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 🧐 MuleSoft Repos
 
+### CI/CD pipelines
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=buefy)](https://github.com/alexandramartinez/dataweave-utilities-library)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=buefy)](https://github.com/alexandramartinez/github-actions)
+
+### DataWeave
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=DataWeave-scripts&theme=buefy)](https://github.com/alexandramartinez/DataWeave-scripts)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=buefy)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=buefy)](https://github.com/alexandramartinez/intro-a-dataweave)
+
+### Mule apps
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=buefy)](https://github.com/alexandramartinez/my-process-api-munits)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=buefy)](https://github.com/alexandramartinez/vampireAPI)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=buefy)](https://github.com/alexandramartinez/slack-maxmanager-app)
