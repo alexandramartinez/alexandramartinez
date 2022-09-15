@@ -25,11 +25,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [I didn&#39;t need a gym subscription; I needed motivation, discipline, and a dietitian.](https://www.alexmartinez.ca/post/i-didn-t-need-a-gym-subscription-i-needed-motivation-discipline-and-a-dietitian)
 - [[Tutorial] How to install Anypoint Flex Gateway in connected mode as a Linux service](https://www.alexmartinez.ca/post/tutorial-how-to-install-anypoint-flex-gateway-in-connected-mode-as-a-linux-service)
 - [[Twitch stream] Setting up MuleSoft CI/CD with GitHub actions! &lpar;Part 4&rpar; DataWeave libraries](https://www.alexmartinez.ca/post/twitch-stream-setting-up-mulesoft-ci-cd-with-github-actions-part-4-dataweave-libraries)
 - [[Twitch stream] Setting up MuleSoft CI/CD with GitHub actions! &lpar;Part 3&rpar; DataWeave libraries](https://www.alexmartinez.ca/post/twitch-stream-setting-up-mulesoft-ci-cd-with-github-actions-part-3-dataweave-libraries)
 - [How to import a script from Visual Studio Code to the DataWeave Playground | Short Tutorial](https://www.alexmartinez.ca/post/how-to-import-a-script-from-visual-studio-code-to-the-dataweave-playground-short-tutorial)
-- [How to export a script from the DataWeave Playground to Visual Studio Code | Short Tutorial](https://www.alexmartinez.ca/post/how-to-export-a-script-from-the-dataweave-playground-to-visual-studio-code-short-tutorial)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
