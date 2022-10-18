@@ -26,11 +26,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [[Twitch stream] Exploring Anypoint DataGraph with Alex!](https://www.alexmartinez.ca/post/twitch-stream-exploring-anypoint-datagraph-with-alex)
 - [[Tutorial] Secure your APIs with Anypoint Flex Gateway in local mode &lpar;config file&rpar;](https://www.alexmartinez.ca/post/tutorial-secure-your-apis-with-anypoint-flex-gateway-in-local-mode-config-file)
 - [[Tutorial] How to install Anypoint Flex Gateway in local mode as a Docker container](https://www.alexmartinez.ca/post/tutorial-how-to-install-anypoint-flex-gateway-in-local-mode-as-a-docker-container)
 - [[Twitch stream] The authors behind the new MuleSoft for Salesforce Developers book](https://www.alexmartinez.ca/post/twitch-stream-the-authors-behind-the-new-mulesoft-for-salesforce-developers-book)
 - [I wrote a book and it&#39;s been officially published! - MuleSoft for Salesforce Developers](https://www.alexmartinez.ca/post/i-wrote-a-book-and-it-s-been-officially-published-mulesoft-for-salesforce-developers)
-- [[Twitch stream] Alex tries to install Anypoint Flex Gateway in local mode as a Docker container](https://www.alexmartinez.ca/post/twitch-stream-alex-tries-to-install-anypoint-flex-gateway-in-local-mode-as-a-docker-container)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
