@@ -51,7 +51,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ### DataWeave
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=DataWeave-scripts&theme=buefy)](https://github.com/alexandramartinez/DataWeave-scripts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=buefy)](https://github.com/alexandramartinez/dataweave-scripts)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=buefy)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=buefy)](https://github.com/alexandramartinez/intro-a-dataweave)
 
