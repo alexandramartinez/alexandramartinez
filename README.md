@@ -48,18 +48,18 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ### CI/CD pipelines
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=midnight-purple)](https://github.com/alexandramartinez/github-actions)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=midnight-purple)](https://github.com/alexandramartinez/dataweave-utilities-library)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=midnight-purple)](https://github.com/alexandramartinez/api-catalog-cli-example)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=jolly)](https://github.com/alexandramartinez/github-actions)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=jolly)](https://github.com/alexandramartinez/dataweave-utilities-library)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=jolly)](https://github.com/alexandramartinez/api-catalog-cli-example)
 
 ### DataWeave
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=midnight-purple)](https://github.com/alexandramartinez/dataweave-scripts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=midnight-purple)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=midnight-purple)](https://github.com/alexandramartinez/intro-a-dataweave)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=jolly)](https://github.com/alexandramartinez/dataweave-scripts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=jolly)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=jolly)](https://github.com/alexandramartinez/intro-a-dataweave)
 
 ### Mule apps
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=midnight-purple)](https://github.com/alexandramartinez/my-process-api-munits)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=midnight-purple)](https://github.com/alexandramartinez/slack-maxmanager-app)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=midnight-purple)](https://github.com/alexandramartinez/vampireAPI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=jolly)](https://github.com/alexandramartinez/my-process-api-munits)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=jolly)](https://github.com/alexandramartinez/slack-maxmanager-app)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=jolly)](https://github.com/alexandramartinez/vampireAPI)
