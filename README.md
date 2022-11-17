@@ -37,29 +37,29 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 <p align="center">
   <a href="https://github.com/alexandramartinez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&theme=buefy&count_private=true&show_icons=true&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&theme=buefy&layout=compact&langs_count=6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&theme=midnight-purple&layout=compact&langs_count=6"/>
   </a>
 </p>
 
 ## 🧐 MuleSoft Repos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-resources&theme=buefy)](https://github.com/alexandramartinez/mulesoft-resources)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-resources&theme=midnight-purple)](https://github.com/alexandramartinez/mulesoft-resources)
 
 ### CI/CD pipelines
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=buefy)](https://github.com/alexandramartinez/github-actions)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=buefy)](https://github.com/alexandramartinez/dataweave-utilities-library)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=buefy)](https://github.com/alexandramartinez/api-catalog-cli-example)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=midnight-purple)](https://github.com/alexandramartinez/github-actions)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=midnight-purple)](https://github.com/alexandramartinez/dataweave-utilities-library)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=midnight-purple)](https://github.com/alexandramartinez/api-catalog-cli-example)
 
 ### DataWeave
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=buefy)](https://github.com/alexandramartinez/dataweave-scripts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=buefy)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=buefy)](https://github.com/alexandramartinez/intro-a-dataweave)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=midnight-purple)](https://github.com/alexandramartinez/dataweave-scripts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=midnight-purple)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=intro-a-dataweave&theme=midnight-purple)](https://github.com/alexandramartinez/intro-a-dataweave)
 
 ### Mule apps
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=buefy)](https://github.com/alexandramartinez/my-process-api-munits)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=buefy)](https://github.com/alexandramartinez/slack-maxmanager-app)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=buefy)](https://github.com/alexandramartinez/vampireAPI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=midnight-purple)](https://github.com/alexandramartinez/my-process-api-munits)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=midnight-purple)](https://github.com/alexandramartinez/slack-maxmanager-app)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=midnight-purple)](https://github.com/alexandramartinez/vampireAPI)
