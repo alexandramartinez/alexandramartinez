@@ -37,14 +37,14 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 <p align="center">
   <a href="https://github.com/alexandramartinez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&theme=jolly&count_private=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&theme=midnight-purple&layout=compact&langs_count=6"/>
   </a>
 </p>
 
 ## 🧐 MuleSoft Repos
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-resources&theme=midnight-purple)](https://github.com/alexandramartinez/mulesoft-resources)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-resources&theme=jolly)](https://github.com/alexandramartinez/mulesoft-resources)
 
 ### CI/CD pipelines
 
