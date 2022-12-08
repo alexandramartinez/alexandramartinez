@@ -26,11 +26,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [[Twitch live stream] Advent of Code 2022 Day 2 with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-stream-advent-of-code-2022-day-2-with-dataweave)
 - [[Twitch live stream] Solving programming puzzles with DataWeave! ~ Advent of Code 2022 Day 1](https://www.alexmartinez.ca/post/twitch-live-stream-solving-programming-puzzles-with-dataweave-~-advent-of-code-2022-day-1)
 - [[Twitch live stream] Can we debug DataWeave code in Visual Studio Code?  Yes, we can!](https://www.alexmartinez.ca/post/twitch-live-stream-can-we-debug-dataweave-code-in-visual-studio-code-yes-we-can)
 - [[Twitch live stream] Exploring Anypoint API Catalog CLI with Alex!](https://www.alexmartinez.ca/post/twitch-live-stream-exploring-anypoint-api-catalog-cli-with-alex)
 - [[Twitch stream] Alex does...things... Perhaps Anypoint CLI or DataWeave? &lpar;Mostly DW&rpar;](https://www.alexmartinez.ca/post/twitch-stream-alex-does-things-perhaps-anypoint-cli-or-dataweave-mostly-dw)
-- [[Tutorial] How to install Anypoint Flex Gateway in local mode as a Linux service](https://www.alexmartinez.ca/post/tutorial-how-to-install-anypoint-flex-gateway-in-local-mode-as-a-linux-service)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
