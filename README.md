@@ -30,7 +30,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - [[Twitch live stream] Solving programming puzzles with DataWeave! ~ Advent of Code 2022 Day 1](https://www.alexmartinez.ca/post/twitch-live-stream-solving-programming-puzzles-with-dataweave-~-advent-of-code-2022-day-1)
 - [[Twitch live stream] Can we debug DataWeave code in Visual Studio Code?  Yes, we can!](https://www.alexmartinez.ca/post/twitch-live-stream-can-we-debug-dataweave-code-in-visual-studio-code-yes-we-can)
 - [[Twitch live stream] Exploring Anypoint API Catalog CLI with Alex!](https://www.alexmartinez.ca/post/twitch-live-stream-exploring-anypoint-api-catalog-cli-with-alex)
-- [[Twitch stream] Alex does...things... Perhaps Anypoint CLI or DataWeave? &lpar;Mostly DW&rpar;](https://www.alexmartinez.ca/post/twitch-stream-alex-does-things-perhaps-anypoint-cli-or-dataweave-mostly-dw)
+- [Wrap up! What did we learn? Get in touch and give me your feedback! | #Codetober 2022 Day 31](https://www.alexmartinez.ca/post/wrap-up-what-did-we-learn-get-in-touch-and-give-me-your-feedback-codetober-2022-day-31)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
