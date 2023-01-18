@@ -25,11 +25,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [[Twitch live stream] Advent of Code 2022, day 3, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-stream-advent-of-code-2022-day-3-with-dataweave)
 - [How to move your code from the DataWeave Playground to Visual Studio Code⁠](https://www.alexmartinez.ca/post/how-to-move-your-code-from-the-dataweave-playground-to-visual-studio-code)
 - [Video Game Ratings: Horizon Forbidden West &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-horizon-forbidden-west-personal-review)
 - [Latinas in Tech - How a Developer’s Roots in Mexico Led to a Career in Tech](https://www.alexmartinez.ca/post/latinas-in-tech-how-a-developer-s-roots-in-mexico-led-to-a-career-in-tech)
 - [[Twitch live stream] Advent of Code 2022 Day 2 with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-stream-advent-of-code-2022-day-2-with-dataweave)
-- [[Twitch live stream] Solving programming puzzles with DataWeave! ~ Advent of Code 2022 Day 1](https://www.alexmartinez.ca/post/twitch-live-stream-solving-programming-puzzles-with-dataweave-~-advent-of-code-2022-day-1)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
