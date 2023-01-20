@@ -25,11 +25,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [Video Game Ratings: Limbo &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-limbo-personal-review)
 - [[Twitch live streams] Advent of Code 2022, days 5 and 6, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-streams-advent-of-code-2022-days-5-and-6-with-dataweave)
 - [[Twitch live stream] Advent of Code 2022 day 4 -- with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-stream-advent-of-code-2022-day-4-with-dataweave)
 - [[Twitch live stream] Advent of Code 2022, day 3, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-stream-advent-of-code-2022-day-3-with-dataweave)
 - [How to move your code from the DataWeave Playground to Visual Studio Code⁠](https://www.alexmartinez.ca/post/how-to-move-your-code-from-the-dataweave-playground-to-visual-studio-code)
-- [Video Game Ratings: Horizon Forbidden West &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-horizon-forbidden-west-personal-review)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
