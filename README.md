@@ -25,11 +25,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [[Twitch live streams] Advent of Code 2022, day 9, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-streams-advent-of-code-2022-day-9-with-dataweave)
 - [[Twitch live streams] Advent of Code 2022, day 8, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-streams-advent-of-code-2022-day-8-with-dataweave)
 - [Simplified try-catch strategy in DataWeave with the default keyword &lpar;instead of try/orElse&rpar;](https://www.alexmartinez.ca/post/simplified-try-catch-strategy-in-dataweave-with-the-default-keyword-instead-of-try-orelse)
 - [#Codetober 2022 - 31 days of DataWeave learning...for the second time!](https://www.alexmartinez.ca/post/codetober-2022-31-days-of-dataweave-learning-for-the-second-time)
 - [[Twitch live streams] Advent of Code 2022, day 7, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-streams-advent-of-code-2022-day-7-with-dataweave)
-- [[Twitch live stream] BATTLESNAKE TIME!!  WOOT WOOT](https://www.alexmartinez.ca/post/twitch-live-stream-battlesnake-time-woot-woot)
 <!-- BLOG:END -->
 
 ## ⭐️ GitHub Stats
