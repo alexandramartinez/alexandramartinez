@@ -13,7 +13,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - Founder & Content Creator at [ProstDev](https://www.prostdev.com/)
 - Published author of MuleSoft for Salesforce Developers
 
-### Follow me 👇
+## 👇 Follow me
 
   <a href="https://www.alexmartinez.ca/"><img src="https://img.shields.io/badge/-Website-ff69b4?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/alexandra-n-martinez/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -23,6 +23,8 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
   <a href="https://www.polywork.com/devalexmartinez"><img src="https://img.shields.io/badge/-Polywork-543DE0?style=for-the-badge&logo=Polywork&logoColor=white"/></a>
   <a href="https://www.alexmartinez.ca/links"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
   <!--  <a href="https://twitter.com/devalexmartinez"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
+
+---
 
 ## 📝 Latest Content
 
@@ -34,6 +36,8 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - [#Codetober 2022 - 31 days of DataWeave learning...for the second time!](https://www.alexmartinez.ca/post/codetober-2022-31-days-of-dataweave-learning-for-the-second-time)
 <!-- BLOG:END -->
 
+---
+
 ## ⭐️ GitHub Stats
 
 <p align="center">
@@ -42,6 +46,8 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&theme=midnight-purple&layout=compact&langs_count=6"/>
   </a>
 </p>
+
+---
 
 ## 🧐 MuleSoft Repos
 
