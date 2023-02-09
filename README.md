@@ -2,6 +2,7 @@
 
 I'm a Software Engineer who started creating content and is now a Developer Advocate!
 
+- she/they 🌈
 - 🇲🇽 in 🇨🇦
 - 🐱 🐶 Eris & Waffle
 - ❤️ Horror, Disney, Jurassic Park, Coffee, Halloween
