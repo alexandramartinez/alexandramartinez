@@ -11,7 +11,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 - Developer Advocate at [MuleSoft](https://www.mulesoft.com/)
 - Founder & Content Creator at [ProstDev](https://www.prostdev.com/)
-- Published author of MuleSoft for Salesforce Developers
+- Published author of [MuleSoft for Salesforce Developers](https://www.amazon.com/Mulesoft-Salesforce-Developers-Architects-practitioners/dp/1801079609/ref=sr_1_3)
 
 ## 👇 Follow me
 
