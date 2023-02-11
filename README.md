@@ -31,10 +31,10 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 <!-- BLOG:START -->
 - [[LIVE STREAM] Fixing the bug! | Battlesnake &lpar;Part 3&rpar; ⚔️ | MuleSoft API | DataWeave programming](https://www.alexmartinez.ca/post/live-stream-fixing-the-bug-battlesnake-part-3-mulesoft-api-dataweave-programming)
-- [[LIVE STREAM] Improving my Battlesnake  &lpar;Part 1&rpar; | MuleSoft API | DataWeave language](https://www.alexmartinez.ca/post/live-stream-improving-my-battlesnake-part-1-mulesoft-api-dataweave-language)
 - [[Twitch live stream] More Battlesnake ⚔️  &lpar;Part 2&rpar; | MuleSoft API | DataWeave programming](https://www.alexmartinez.ca/post/twitch-live-stream-more-battlesnake-part-2-mulesoft-api-dataweave-programming)
 - [How to generate shareable link examples from GitHub to open in the DataWeave Playground](https://www.alexmartinez.ca/post/how-to-generate-shareable-link-examples-from-github-to-open-in-the-dataweave-playground)
 - [[Twitch live streams] Advent of Code 2022, day 9, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-streams-advent-of-code-2022-day-9-with-dataweave)
+- [[Twitch live streams] Advent of Code 2022, day 8, with DataWeave!](https://www.alexmartinez.ca/post/twitch-live-streams-advent-of-code-2022-day-8-with-dataweave)
 <!-- BLOG:END -->
 
 ---
