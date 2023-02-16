@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [Video Game Ratings: Inside &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-inside-personal-review)
 - [Tips from Rolando | Battlesnake Part 5 ⚔️ | MuleSoft API | DataWeave](https://www.alexmartinez.ca/post/tips-from-rolando-battlesnake-part-5-mulesoft-api-dataweave)
 - [C&#39;mon Maxine! | Battlesnake Part 4 ⚔️ | MuleSoft API | DataWeave programming | MUnits](https://www.alexmartinez.ca/post/c-mon-maxine-battlesnake-part-4-mulesoft-api-dataweave-programming-munits)
 - [DataWeave 2.0 scopes for local variables: &#39;using&#39; vs. &#39;do&#39; operators](https://www.alexmartinez.ca/post/dataweave-2-0-scopes-for-local-variables-using-vs-do-operators)
 - [[LIVE STREAM] Fixing the bug! | Battlesnake &lpar;Part 3&rpar; ⚔️ | MuleSoft API | DataWeave programming](https://www.alexmartinez.ca/post/live-stream-fixing-the-bug-battlesnake-part-3-mulesoft-api-dataweave-programming)
-- [[Twitch live stream] More Battlesnake ⚔️  &lpar;Part 2&rpar; | MuleSoft API | DataWeave programming](https://www.alexmartinez.ca/post/twitch-live-stream-more-battlesnake-part-2-mulesoft-api-dataweave-programming)
 <!-- BLOG:END -->
 
 ---
