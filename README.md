@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [How to develop a Battlesnake using a MuleSoft API and the DataWeave language](https://www.alexmartinez.ca/post/how-to-develop-a-battlesnake-using-a-mulesoft-api-and-the-dataweave-language)
 - [Improving the head collision thing | Battlesnake Part 6 ⚔️ | MuleSoft API | DataWeave programming](https://www.alexmartinez.ca/post/improving-the-head-collision-thing-battlesnake-part-6-mulesoft-api-dataweave-programming)
 - [DataWeave programming challenge #1: Add numbers separated by paragraphs and get the max number](https://www.alexmartinez.ca/post/dataweave-programming-challenge-1-add-numbers-separated-by-paragraphs-and-get-the-max-number)
 - [Video Game Ratings: Inside &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-inside-personal-review)
 - [Tips from Rolando | Battlesnake Part 5 ⚔️ | MuleSoft API | DataWeave](https://www.alexmartinez.ca/post/tips-from-rolando-battlesnake-part-5-mulesoft-api-dataweave)
-- [C&#39;mon Maxine! | Battlesnake Part 4 ⚔️ | MuleSoft API | DataWeave programming | MUnits](https://www.alexmartinez.ca/post/c-mon-maxine-battlesnake-part-4-mulesoft-api-dataweave-programming-munits)
 <!-- BLOG:END -->
 
 ---
