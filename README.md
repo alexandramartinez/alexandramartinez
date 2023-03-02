@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [Exploring Anypoint Code Builder &lpar;and VSCode in general&rpar; with Alex!](https://www.alexmartinez.ca/post/exploring-anypoint-code-builder-and-vscode-in-general-with-alex)
 - [Part 2: CI/CD pipeline with MuleSoft and GitHub Actions - secured/encrypted properties](https://www.alexmartinez.ca/post/part-2-ci-cd-pipeline-with-mulesoft-and-github-actions-secured-encrypted-properties)
+- [Watching the leaderboard! | Battlesnake Part 8 ⚔️ | MuleSoft API | DataWeave](https://www.alexmartinez.ca/post/watching-the-leaderboard-battlesnake-part-8-mulesoft-api-dataweave)
 - [Last code version! | Battlesnake Part 7 ⚔️ | MuleSoft API | DataWeave programming](https://www.alexmartinez.ca/post/last-code-version-battlesnake-part-7-mulesoft-api-dataweave-programming)
 - [DataWeave programming challenge #2: Rock Paper Scissors game score system](https://www.alexmartinez.ca/post/dataweave-programming-challenge-2-rock-paper-scissors-game-score-system)
-- [How to develop a Battlesnake using a MuleSoft API and the DataWeave language](https://www.alexmartinez.ca/post/how-to-develop-a-battlesnake-using-a-mulesoft-api-and-the-dataweave-language)
-- [Improving the head collision thing | Battlesnake Part 6 ⚔️ | MuleSoft API | DataWeave programming](https://www.alexmartinez.ca/post/improving-the-head-collision-thing-battlesnake-part-6-mulesoft-api-dataweave-programming)
 <!-- BLOG:END -->
 
 ---
