@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [DataWeave programming challenge #4: Solve the Tower of Hanoi mathematical puzzle | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-4-solve-the-tower-of-hanoi-mathematical-puzzle-prostdev)
 - [5 free tools and apps for new small businesses | 2AM.world blog](https://www.alexmartinez.ca/post/5-free-tools-and-apps-for-new-small-businesses-2am-world-blog)
 - [Maxine v2 is out! | Battlesnake Part 9 | MuleSoft API | DataWeave programming language](https://www.alexmartinez.ca/post/maxine-v2-is-out-battlesnake-part-9-mulesoft-api-dataweave-programming-language)
 - [Part 3: CI/CD pipeline with MuleSoft and GitHub Actions - MUnit testing](https://www.alexmartinez.ca/post/part-3-ci-cd-pipeline-with-mulesoft-and-github-actions-munit-testing)
 - [DataWeave programming challenge #3: Count palindrome phrases using the Strings module](https://www.alexmartinez.ca/post/dataweave-programming-challenge-3-count-palindrome-phrases-using-the-strings-module)
-- [Exploring Anypoint Code Builder &lpar;and VSCode in general&rpar; with Alex!](https://www.alexmartinez.ca/post/exploring-anypoint-code-builder-and-vscode-in-general-with-alex)
 <!-- BLOG:END -->
 
 ---
