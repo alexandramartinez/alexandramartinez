@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [What is Sentry??](https://www.alexmartinez.ca/post/what-is-sentry)
 - [Why is my snake not working :&lpar; | Battlesnake](https://www.alexmartinez.ca/post/why-is-my-snake-not-working-battlesnake)
 - [Exploring CI/CD with GitHub Actions for the MUnit coverage](https://www.alexmartinez.ca/post/exploring-ci-cd-with-github-actions-for-the-munit-coverage)
 - [Fixing my Battlesnake&#39;s MUnits for the CI/CD pipeline | live coding | lo-fi music | MuleSoft 4](https://www.alexmartinez.ca/post/fixing-my-battlesnake-s-munits-for-the-ci-cd-pipeline-live-coding-lo-fi-music-mulesoft-4)
 - [BAD MAXINE | Battlesnake Part 10](https://www.alexmartinez.ca/post/bad-maxine-battlesnake-part-10)
-- [DataWeave programming challenge #4: Solve the Tower of Hanoi mathematical puzzle | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-4-solve-the-tower-of-hanoi-mathematical-puzzle-prostdev)
 <!-- BLOG:END -->
 
 ---
