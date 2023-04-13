@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [New Battlesnake using Python/Flask + DataWeave + Vercel | live coding](https://www.alexmartinez.ca/post/new-battlesnake-using-python-flask-dataweave-vercel-live-coding)
 - [Exploring MuleSoft&#39;s BAT CLI for functional testing | live coding](https://www.alexmartinez.ca/post/exploring-mulesoft-s-bat-cli-for-functional-testing-live-coding)
 - [What is Sentry??](https://www.alexmartinez.ca/post/what-is-sentry)
 - [Why is my snake not working :&lpar; | Battlesnake](https://www.alexmartinez.ca/post/why-is-my-snake-not-working-battlesnake)
 - [Exploring CI/CD with GitHub Actions for the MUnit coverage](https://www.alexmartinez.ca/post/exploring-ci-cd-with-github-actions-for-the-munit-coverage)
-- [Fixing my Battlesnake&#39;s MUnits for the CI/CD pipeline | live coding | lo-fi music | MuleSoft 4](https://www.alexmartinez.ca/post/fixing-my-battlesnake-s-munits-for-the-ci-cd-pipeline-live-coding-lo-fi-music-mulesoft-4)
 <!-- BLOG:END -->
 
 ---
