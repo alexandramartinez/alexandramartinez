@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [DataWeave programming challenge #5: Reverse a phrase&#39;s words, but keep the punctuation | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-5-reverse-a-phrase-s-words-but-keep-the-punctuation-prostdev)
 - [New Battlesnake using Python/Flask + DataWeave + Vercel | live coding](https://www.alexmartinez.ca/post/new-battlesnake-using-python-flask-dataweave-vercel-live-coding)
 - [Exploring MuleSoft&#39;s BAT CLI for functional testing | live coding](https://www.alexmartinez.ca/post/exploring-mulesoft-s-bat-cli-for-functional-testing-live-coding)
 - [What is Sentry??](https://www.alexmartinez.ca/post/what-is-sentry)
 - [Why is my snake not working :&lpar; | Battlesnake](https://www.alexmartinez.ca/post/why-is-my-snake-not-working-battlesnake)
-- [Exploring CI/CD with GitHub Actions for the MUnit coverage](https://www.alexmartinez.ca/post/exploring-ci-cd-with-github-actions-for-the-munit-coverage)
 <!-- BLOG:END -->
 
 ---
