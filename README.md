@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [5 tips to have a better setup when you&#39;re live streaming from a MacOS computer | ProstDev](https://www.alexmartinez.ca/post/5-tips-to-have-a-better-setup-when-you-re-live-streaming-from-a-macos-computer-prostdev)
 - [What&#39;s new in Anypoint Code Builder? With Alex! | MuleSoft_Community](https://www.alexmartinez.ca/post/what-s-new-in-anypoint-code-builder-with-alex-mulesoft_community)
 - [DataWeave programming challenge #5: Reverse a phrase&#39;s words, but keep the punctuation | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-5-reverse-a-phrase-s-words-but-keep-the-punctuation-prostdev)
 - [New Battlesnake using Python/Flask + DataWeave + Vercel | live coding](https://www.alexmartinez.ca/post/new-battlesnake-using-python-flask-dataweave-vercel-live-coding)
 - [Exploring MuleSoft&#39;s BAT CLI for functional testing | live coding](https://www.alexmartinez.ca/post/exploring-mulesoft-s-bat-cli-for-functional-testing-live-coding)
-- [What is Sentry??](https://www.alexmartinez.ca/post/what-is-sentry)
 <!-- BLOG:END -->
 
 ---
