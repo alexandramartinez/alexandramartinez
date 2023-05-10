@@ -52,6 +52,8 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ## 🧐 MuleSoft Repos
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-from-start&theme=jolly)](https://github.com/alexandramartinez/mulesoft-from-start)
+
 ### CI/CD pipelines
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=jolly)](https://github.com/alexandramartinez/github-actions)
