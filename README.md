@@ -30,11 +30,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [MuleSoft from Start: A Beginner&#39;s Guide - Session 0: Planning the Outline](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-0-planning-the-outline)
 - [DataWeave programming challenge #6: Using tail-recursion to get the factorial of a number | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-6-using-tail-recursion-to-get-the-factorial-of-a-number-prostdev)
 - [Part 4: CI/CD pipeline with MuleSoft and GitHub Actions - MUnit minimum coverage percentage](https://www.alexmartinez.ca/post/part-4-ci-cd-pipeline-with-mulesoft-and-github-actions-munit-minimum-coverage-percentage)
 - [3 ways to immigrate to Canada &lpar;from what I&#39;ve experienced&rpar;](https://www.alexmartinez.ca/post/3-ways-to-immigrate-to-canada-from-what-i-ve-experienced)
 - [5 tips to have a better setup when you&#39;re live streaming from a MacOS computer | ProstDev](https://www.alexmartinez.ca/post/5-tips-to-have-a-better-setup-when-you-re-live-streaming-from-a-macos-computer-prostdev)
-- [What&#39;s new in Anypoint Code Builder? With Alex! | MuleSoft_Community](https://www.alexmartinez.ca/post/what-s-new-in-anypoint-code-builder-with-alex-mulesoft_community)
 <!-- BLOG:END -->
 
 ---
