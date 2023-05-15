@@ -21,9 +21,9 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
   <a href="https://www.instagram.com/devalexmartinez/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.twitch.tv/devalexmartinez"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
   <a href="https://www.youtube.com/prostdev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <!--  <a href="https://www.polywork.com/devalexmartinez"><img src="https://img.shields.io/badge/-Polywork-543DE0?style=for-the-badge&logo=Polywork&logoColor=white"/></a> -->
   <a href="https://www.alexmartinez.ca/links"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
   <!--  <a href="https://twitter.com/devalexmartinez"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
+  <!--  <a href="https://www.polywork.com/devalexmartinez"><img src="https://img.shields.io/badge/-Polywork-543DE0?style=for-the-badge&logo=Polywork&logoColor=white"/></a> -->
 
 ---
 
