@@ -43,7 +43,6 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 ---
 
