@@ -1,4 +1,4 @@
-name: Lastest Content
+name: Update README
 on:
   schedule:
     # Runs every hour
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  blog:
     name: Update this repo's README with latest Wix blog posts
     runs-on: ubuntu-latest
     steps:
@@ -16,3 +16,11 @@ jobs:
           comment_tag_name: "BLOG"
           commit_message: "Updated readme with the latest Blog data"
           feed_list: "https://www.alexmartinez.ca/blog-feed.xml"
+  activity:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
