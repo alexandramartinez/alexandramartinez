@@ -24,11 +24,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [MuleSoft from Start: A Beginner&#39;s Guide - Session 1: MuleSoft Overview](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-1-mulesoft-overview)
 - [Part 5: CI/CD pipeline with MuleSoft and GitHub Actions - Enabling MFA through a Connected App](https://www.alexmartinez.ca/post/part-5-ci-cd-pipeline-with-mulesoft-and-github-actions-enabling-mfa-through-a-connected-app)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 0: Planning the Outline](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-0-planning-the-outline)
 - [DataWeave programming challenge #6: Using tail-recursion to get the factorial of a number | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-6-using-tail-recursion-to-get-the-factorial-of-a-number-prostdev)
 - [Part 4: CI/CD pipeline with MuleSoft and GitHub Actions - MUnit minimum coverage percentage](https://www.alexmartinez.ca/post/part-4-ci-cd-pipeline-with-mulesoft-and-github-actions-munit-minimum-coverage-percentage)
-- [3 ways to immigrate to Canada &lpar;from what I&#39;ve experienced&rpar;](https://www.alexmartinez.ca/post/3-ways-to-immigrate-to-canada-from-what-i-ve-experienced)
 <!-- BLOG:END -->
 
 ---
