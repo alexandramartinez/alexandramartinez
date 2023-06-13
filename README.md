@@ -24,11 +24,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [DataWeave programming challenge #7: Modify certain values from a JSON structure | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-7-modify-certain-values-from-a-json-structure-prostdev)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 2: What is an API?](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-2-what-is-an-api)
 - [What&#39;s new in Anypoint Code Builder?? | June 2023 update | MuleSoft_Community](https://www.alexmartinez.ca/post/what-s-new-in-anypoint-code-builder-june-2023-update-mulesoft_community)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 1: MuleSoft Overview](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-1-mulesoft-overview)
 - [Part 5: CI/CD pipeline with MuleSoft and GitHub Actions - Enabling MFA through a Connected App](https://www.alexmartinez.ca/post/part-5-ci-cd-pipeline-with-mulesoft-and-github-actions-enabling-mfa-through-a-connected-app)
-- [MuleSoft from Start: A Beginner&#39;s Guide - Session 0: Planning the Outline](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-0-planning-the-outline)
 <!-- BLOG:END -->
 
 ---
