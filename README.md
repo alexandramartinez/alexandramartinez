@@ -36,9 +36,9 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ProstDev/blog-posts/issues/1) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-2. 🔒 Closed issue [#1](https://github.com/ProstDev/getting-to-the-point/issues/1) in [ProstDev/getting-to-the-point](https://github.com/ProstDev/getting-to-the-point)
-3. 🗣 Commented on [#1](https://github.com/ProstDev/getting-to-the-point/issues/1) in [ProstDev/getting-to-the-point](https://github.com/ProstDev/getting-to-the-point)
+1. ❗ Opened issue [#2](https://github.com/ProstDev/blog-posts/issues/2) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+2. ❗ Opened issue [#1](https://github.com/ProstDev/blog-posts/issues/1) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+3. 🔒 Closed issue [#1](https://github.com/ProstDev/getting-to-the-point/issues/1) in [ProstDev/getting-to-the-point](https://github.com/ProstDev/getting-to-the-point)
 4. 🗣 Commented on [#1](https://github.com/ProstDev/getting-to-the-point/issues/1) in [ProstDev/getting-to-the-point](https://github.com/ProstDev/getting-to-the-point)
 5. 🗣 Commented on [#1](https://github.com/ProstDev/getting-to-the-point/issues/1) in [ProstDev/getting-to-the-point](https://github.com/ProstDev/getting-to-the-point)
 <!--END_SECTION:activity-->
