@@ -36,11 +36,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/ProstDev/blog-posts/issues/4) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-2. 🎉 Merged PR [#4](https://github.com/alexandramartinez/mulesoft-from-start/pull/4) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
-3. 💪 Opened PR [#4](https://github.com/alexandramartinez/mulesoft-from-start/pull/4) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
-4. 🎉 Merged PR [#3](https://github.com/alexandramartinez/mulesoft-from-start/pull/3) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
-5. 💪 Opened PR [#3](https://github.com/alexandramartinez/mulesoft-from-start/pull/3) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
+1. 🗣 Commented on [#4](https://github.com/ProstDev/blog-posts/issues/4#issuecomment-1660871216) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+2. ❗ Opened issue [#4](https://github.com/ProstDev/blog-posts/issues/4) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+3. 🎉 Merged PR [#4](https://github.com/alexandramartinez/mulesoft-from-start/pull/4) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
+4. 💪 Opened PR [#4](https://github.com/alexandramartinez/mulesoft-from-start/pull/4) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
+5. 🎉 Merged PR [#3](https://github.com/alexandramartinez/mulesoft-from-start/pull/3) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
 <!--END_SECTION:activity-->
 
 
