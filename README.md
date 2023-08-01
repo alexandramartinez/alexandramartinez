@@ -24,11 +24,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [Quick reference: CI/CD for a Mule app using a Connected App](https://www.alexmartinez.ca/post/quick-reference-ci-cd-for-a-mule-app-using-a-connected-app)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 7: Deploy the Mule App to CloudHub](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-7-deploy-the-mule-app-to-cloudhub)
 - [codeLive: Using the DataWeave extension for Visual Studio Code | Salesforce Developers](https://www.alexmartinez.ca/post/codelive-using-the-dataweave-extension-for-visual-studio-code-salesforce-developers)
 - [MuleSoft from Start: A Beginner&#39;s Guide  - Session 6: Debug the Mule Application in Anypoint Studio](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-6-debug-the-mule-application-in-anypoint-studio)
 - [DataWeave programming challenge #8: Sum all digits to get a 1-digit number | ProstDev](https://www.alexmartinez.ca/post/dataweave-programming-challenge-8-sum-all-digits-to-get-a-1-digit-number-prostdev)
-- [MuleSoft from Start: A Beginner&#39;s Guide  - Session 5: Develop the API in Anypoint Studio](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-5-develop-the-api-in-anypoint-studio)
 <!-- BLOG:END -->
 
 ---
