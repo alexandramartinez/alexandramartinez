@@ -24,11 +24,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [Ask me Anything: Intro to MuleSoft | Salesforce Developers](https://www.alexmartinez.ca/post/ask-me-anything-intro-to-mulesoft-salesforce-developers)
 - [Enabling MFA in MuleSoft for CI/CD Pipelines Using GitHub Actions | Salesforce Developers](https://www.alexmartinez.ca/post/salesforce-developers-blog-enabling-mfa-in-mulesoft-for-ci-cd-pipelines-using-github-actions)
 - [Video Game Ratings: Animal Crossing: New Horizons &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-animal-crossing-new-horizons-personal-review)
 - [Quick reference: CI/CD for a Mule app using a Connected App](https://www.alexmartinez.ca/post/quick-reference-ci-cd-for-a-mule-app-using-a-connected-app)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 7: Deploy the Mule App to CloudHub](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-7-deploy-the-mule-app-to-cloudhub)
-- [codeLive: Using the DataWeave extension for Visual Studio Code | Salesforce Developers](https://www.alexmartinez.ca/post/codelive-using-the-dataweave-extension-for-visual-studio-code-salesforce-developers)
 <!-- BLOG:END -->
 
 ---
