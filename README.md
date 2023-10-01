@@ -36,11 +36,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.3](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v2.0.3) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-2. 🗣 Commented on [#9](https://github.com/rhoegg/anypoint-race-api/issues/9#issuecomment-1739575112) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
-3. 🔒 Closed issue [#3](https://github.com/ProstDev/blog-posts/issues/3) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-4. 🗣 Commented on [#1](https://github.com/mulesoft-developers/getting-started-hello-mule/issues/1#issuecomment-1733940362) in [mulesoft-developers/getting-started-hello-mule](https://github.com/mulesoft-developers/getting-started-hello-mule)
-5. 🗣 Commented on [#4](https://github.com/alexandramartinez/github-actions/issues/4#issuecomment-1710884407) in [alexandramartinez/github-actions](https://github.com/alexandramartinez/github-actions)
+1. 🎉 Merged PR [#4](https://github.com/alexandramartinez/mule-battlesnake/pull/4) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+2. 💪 Opened PR [#4](https://github.com/alexandramartinez/mule-battlesnake/pull/4) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+3. 🎉 Merged PR [#3](https://github.com/alexandramartinez/mule-battlesnake/pull/3) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+4. 💪 Opened PR [#3](https://github.com/alexandramartinez/mule-battlesnake/pull/3) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+5. 🚀 Published release [v2.0.3](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v2.0.3) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
