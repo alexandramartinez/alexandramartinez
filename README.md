@@ -36,11 +36,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/alexandramartinez/mule-battlesnake/pull/4) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-2. 💪 Opened PR [#4](https://github.com/alexandramartinez/mule-battlesnake/pull/4) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-3. 🎉 Merged PR [#3](https://github.com/alexandramartinez/mule-battlesnake/pull/3) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-4. 💪 Opened PR [#3](https://github.com/alexandramartinez/mule-battlesnake/pull/3) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-5. 🚀 Published release [v2.0.3](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v2.0.3) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. 🎉 Merged PR [#6](https://github.com/alexandramartinez/mule-battlesnake/pull/6) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+2. 💪 Opened PR [#6](https://github.com/alexandramartinez/mule-battlesnake/pull/6) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+3. 🎉 Merged PR [#5](https://github.com/alexandramartinez/mule-battlesnake/pull/5) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+4. 💪 Opened PR [#5](https://github.com/alexandramartinez/mule-battlesnake/pull/5) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+5. 🎉 Merged PR [#4](https://github.com/alexandramartinez/mule-battlesnake/pull/4) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
