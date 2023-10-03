@@ -24,11 +24,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [#Codetober 2023 ~ 31 MuleSoft-related videos under 10min each! | ProstDev](https://www.alexmartinez.ca/post/codetober-2023-~-31-mulesoft-related-videos-under-10min-each-prostdev)
 - [How to use MuleSoft&#39;s visual API Designer to create a To-Do API specification using clicks, not code](https://www.alexmartinez.ca/post/how-to-use-mulesoft-s-visual-api-designer-to-create-a-to-do-api-specification-using-clicks-not-code)
 - [BACK FROM DREAMFORCE!! Let&#39;s try some cool stuff  &lpar;ACB Desktop&rpar; | MuleSoft Community](https://www.alexmartinez.ca/post/back-from-dreamforce-let-s-try-some-cool-stuff-acb-desktop-mulesoft-community)
 - [Where to find Alex in Dreamforce - #DF23 at San Francisco](https://www.alexmartinez.ca/post/where-to-find-alex-in-dreamforce-df23-at-san-francisco)
 - [DataWeave scripts to clean your XML/HTML code snippets for a WordPress blog post | ProstDev](https://www.alexmartinez.ca/post/dataweave-scripts-to-clean-your-xml-html-code-snippets-for-a-wordpress-blog-post-prostdev)
-- [Ask me Anything: Intro to MuleSoft | Salesforce Developers](https://www.alexmartinez.ca/post/ask-me-anything-intro-to-mulesoft-salesforce-developers)
 <!-- BLOG:END -->
 
 ---
