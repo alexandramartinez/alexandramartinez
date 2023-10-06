@@ -57,29 +57,29 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ---
 
-## 🧐 MuleSoft Repos
+## Ⓜ️ MuleSoft Repos
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-from-start&theme=jolly)](https://github.com/alexandramartinez/mulesoft-from-start)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=codetober23&theme=jolly)](https://github.com/ProstDev/codetober23)
 
-### Anypoint Code Builder (ACB) projects
+### 🔤 Anypoint Code Builder (ACB) projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=acb-test123&theme=jolly)](https://github.com/alexandramartinez/acb-test123)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=waffle-house-api&theme=jolly)](https://github.com/alexandramartinez/waffle-house-api)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=acb-dt-1&theme=jolly)](https://github.com/alexandramartinez/acb-dt-1)
 
-### Anypoint Race API
+### 🏎️ Anypoint Race API
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
 
-**SEASON 1**
+**SEASON 1** (Finished)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-postman)
 
-**SEASON 2**
+**SEASON 2** (Ongoing)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api)
 
-### CI/CD pipelines
+### 🔁 CI/CD pipelines
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=jolly)](https://github.com/alexandramartinez/github-actions)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-mfa-cicd&theme=jolly)](https://github.com/alexandramartinez/mulesoft-mfa-cicd)
@@ -87,7 +87,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-bat-example&theme=jolly)](https://github.com/alexandramartinez/mule-bat-example)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=jolly)](https://github.com/alexandramartinez/dataweave-utilities-library)
 
-### DataWeave
+### 💙 DataWeave
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=jolly)](https://github.com/alexandramartinez/dataweave-scripts)
@@ -96,7 +96,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-challenges&theme=jolly)](https://github.com/alexandramartinez/dataweave-challenges)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=python-dw-battlesnake&theme=jolly)](https://github.com/alexandramartinez/python-dw-battlesnake)
 
-### Mule apps
+### 💻 Mule apps
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=jolly)](https://github.com/alexandramartinez/mule-battlesnake)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=jolly)](https://github.com/alexandramartinez/my-process-api-munits)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=jolly)](https://github.com/alexandramartinez/slack-maxmanager-app)
