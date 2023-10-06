@@ -36,11 +36,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-2. 🚀 Published release [v1.0.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v1.0.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-3. 🎉 Merged PR [#11](https://github.com/alexandramartinez/mule-battlesnake/pull/11) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-4. 💪 Opened PR [#11](https://github.com/alexandramartinez/mule-battlesnake/pull/11) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-5. 🎉 Merged PR [#10](https://github.com/alexandramartinez/mule-battlesnake/pull/10) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. ❗ Opened issue [#10](https://github.com/rhoegg/anypoint-race-api/issues/10) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
+2. 🚀 Published release [v3.0.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+3. 🚀 Published release [v1.0.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v1.0.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+4. 🎉 Merged PR [#11](https://github.com/alexandramartinez/mule-battlesnake/pull/11) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+5. 💪 Opened PR [#11](https://github.com/alexandramartinez/mule-battlesnake/pull/11) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
