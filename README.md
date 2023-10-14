@@ -36,11 +36,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Final version from Season 1](https://github.com/alexandramartinez/anypoint-race-api-mulesoft/releases/tag/season1) in [alexandramartinez/anypoint-race-api-mulesoft](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
-2. ❗ Opened issue [#10](https://github.com/rhoegg/anypoint-race-api/issues/10) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
-3. 🚀 Published release [v3.0.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-4. 🚀 Published release [v1.0.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v1.0.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-5. 🎉 Merged PR [#11](https://github.com/alexandramartinez/mule-battlesnake/pull/11) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. 🎉 Merged PR [#6](https://github.com/alexandramartinez/mulesoft-from-start/pull/6) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
+2. 💪 Opened PR [#6](https://github.com/alexandramartinez/mulesoft-from-start/pull/6) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
+3. 🚀 Published release [Final version from Season 1](https://github.com/alexandramartinez/anypoint-race-api-mulesoft/releases/tag/season1) in [alexandramartinez/anypoint-race-api-mulesoft](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
+4. ❗ Opened issue [#10](https://github.com/rhoegg/anypoint-race-api/issues/10) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
+5. 🚀 Published release [v3.0.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
