@@ -24,11 +24,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [3 Best Practices for Your MuleSoft Projects | Salesforce Developers](https://www.alexmartinez.ca/post/3-best-practices-for-your-mulesoft-projects-salesforce-developers)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 9: Test your Mule app with MUnit testing](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-9-test-your-mule-app-with-munit-testing)
 - [Ep2. Pod With Alex Martinez-Developer Advocate at MuleSoft on Salesforce, MuleSoft, AI, Dreamforce](https://www.alexmartinez.ca/post/ep2-pod-with-alex-martinez-developer-advocate-at-mulesoft-on-salesforce-mulesoft-ai-dreamforce)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 8: Set up CI/CD &amp;#38; API Autodiscovery &lpar;API Manager&rpar;](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-8-set-up-ci-cd-api-autodiscovery-api-manager)
 - [#Codetober 2023 ~ 31 MuleSoft-related videos under 10min each! | ProstDev](https://www.alexmartinez.ca/post/codetober-2023-~-31-mulesoft-related-videos-under-10min-each-prostdev)
-- [How to use MuleSoft&#39;s visual API Designer to create a To-Do API specification using clicks, not code](https://www.alexmartinez.ca/post/how-to-use-mulesoft-s-visual-api-designer-to-create-a-to-do-api-specification-using-clicks-not-code)
 <!-- BLOG:END -->
 
 ---
