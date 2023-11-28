@@ -36,11 +36,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/alexandramartinez/mule-battlesnake/pull/12) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-2. 🎉 Merged PR [#6](https://github.com/alexandramartinez/mulesoft-from-start/pull/6) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
-3. 💪 Opened PR [#6](https://github.com/alexandramartinez/mulesoft-from-start/pull/6) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
-4. 🚀 Published release [Final version from Season 1](https://github.com/alexandramartinez/anypoint-race-api-mulesoft/releases/tag/season1) in [alexandramartinez/anypoint-race-api-mulesoft](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
-5. ❗ Opened issue [#10](https://github.com/rhoegg/anypoint-race-api/issues/10) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
+1. ❗ Opened issue [#6](https://github.com/ProstDev/blog-posts/issues/6) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+2. 💪 Opened PR [#12](https://github.com/alexandramartinez/mule-battlesnake/pull/12) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+3. 🎉 Merged PR [#6](https://github.com/alexandramartinez/mulesoft-from-start/pull/6) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
+4. 💪 Opened PR [#6](https://github.com/alexandramartinez/mulesoft-from-start/pull/6) in [alexandramartinez/mulesoft-from-start](https://github.com/alexandramartinez/mulesoft-from-start)
+5. 🚀 Published release [Final version from Season 1](https://github.com/alexandramartinez/anypoint-race-api-mulesoft/releases/tag/season1) in [alexandramartinez/anypoint-race-api-mulesoft](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
 <!--END_SECTION:activity-->
 
 
