@@ -70,16 +70,20 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ### 🏎️ Anypoint Race API
 
 
-✅ *Finished*
+◻️ *Ongoing*
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api)
+Nothing ongoing at the moment
 
 ✅ *Finished*
 
 ~ **SEASON 1** ~
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-postman)
+
+~ **SEASON 2** ~
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api)
 
 ### 🔁 CI/CD pipelines
 
