@@ -24,11 +24,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
+- [How to scaffold Mule flows from a published API spec in Anypoint Studio | ProstDev Blog](https://www.alexmartinez.ca/post/how-to-scaffold-mule-flows-from-a-published-api-spec-in-anypoint-studio-prostdev-blog)
 - [Video Game Ratings: AVICII Invector &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-avicii-invector-personal-review)
 - [3 Best Practices for Your MuleSoft Projects | Salesforce Developers](https://www.alexmartinez.ca/post/3-best-practices-for-your-mulesoft-projects-salesforce-developers)
 - [MuleSoft from Start: A Beginner&#39;s Guide - Session 9: Test your Mule app with MUnit testing](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-9-test-your-mule-app-with-munit-testing)
 - [Ep2. Pod With Alex Martinez-Developer Advocate at MuleSoft on Salesforce, MuleSoft, AI, Dreamforce](https://www.alexmartinez.ca/post/ep2-pod-with-alex-martinez-developer-advocate-at-mulesoft-on-salesforce-mulesoft-ai-dreamforce)
-- [MuleSoft from Start: A Beginner&#39;s Guide - Session 8: Set up CI/CD &amp;#38; API Autodiscovery &lpar;API Manager&rpar;](https://www.alexmartinez.ca/post/mulesoft-from-start-a-beginner-s-guide-session-8-set-up-ci-cd-api-autodiscovery-api-manager)
 <!-- BLOG:END -->
 
 ---
