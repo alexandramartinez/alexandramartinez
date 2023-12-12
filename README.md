@@ -36,11 +36,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-2. ❗ Opened issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-3. 🔒 Closed issue [#6](https://github.com/ProstDev/blog-posts/issues/6) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-4. ❗ Opened issue [#6](https://github.com/ProstDev/blog-posts/issues/6) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-5. 💪 Opened PR [#12](https://github.com/alexandramartinez/mule-battlesnake/pull/12) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. 🔒 Closed issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+2. 🔒 Closed issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+3. ❗ Opened issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+4. ❗ Opened issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+5. 🔒 Closed issue [#6](https://github.com/ProstDev/blog-posts/issues/6) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
 <!--END_SECTION:activity-->
 
 
