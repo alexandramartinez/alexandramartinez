@@ -80,8 +80,6 @@ Nothing ongoing at the moment
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-postman)
 
-✅ *Finished*
-
 ~ **SEASON 2** ~
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
