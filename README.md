@@ -95,6 +95,7 @@ Nothing ongoing at the moment
 
 ### 💙 DataWeave
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2023)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=jolly)](https://github.com/alexandramartinez/dataweave-scripts)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=jolly)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
