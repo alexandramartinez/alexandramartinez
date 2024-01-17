@@ -24,11 +24,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
-- [Design an API Specification Using MuleSoft’s Visual API Designer | Salesforce Developers](https://www.alexmartinez.ca/post/design-an-api-specification-using-mulesoft-s-visual-api-designer-salesforce-developers)
-- [How to RE-scaffold Mule flows from an Exchange API specification in Anypoint Studio | ProstDev Blog](https://www.alexmartinez.ca/post/how-to-re-scaffold-mule-flows-from-an-exchange-api-specification-in-anypoint-studio-prostdev-blog)
-- [How to scaffold Mule flows from a published API spec in Anypoint Code Builder &lpar;ACB&rpar; | ProstDev Blog](https://www.alexmartinez.ca/post/how-to-scaffold-mule-flows-from-a-published-api-spec-in-anypoint-code-builder-acb-prostdev-blog)
-- [Video Game Ratings: The Witcher 3: Wild Hunt &lpar;Personal Review&rpar;](https://www.alexmartinez.ca/post/video-game-ratings-the-witcher-3-wild-hunt-personal-review)
-- [5 Ways to Use MuleSoft’s Magical Transformation Language: DataWeave | Salesforce Developers](https://www.alexmartinez.ca/post/5-ways-to-use-mulesoft-s-magical-transformation-language-dataweave-salesforce-developers)
+Check out my latest content [here](https://www.alexmartinez.ca/home/latest-content).
 <!-- BLOG:END -->
 
 ---
