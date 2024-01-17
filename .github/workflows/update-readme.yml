@@ -6,16 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  blog:
-    name: Update latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "BLOG"
-          commit_message: "Updated readme with the latest Blog data"
-          feed_list: "https://www.alexmartinez.ca/blog-feed.xml"
+  # blog:
+  #   name: Update latest blog posts
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - uses: gautamkrishnar/blog-post-workflow@master
+  #       with:
+  #         comment_tag_name: "BLOG"
+  #         commit_message: "Updated readme with the latest Blog data"
+  #         feed_list: "https://www.alexmartinez.ca/blog-feed.xml"
   activity:
     name: Update recent activity
     runs-on: ubuntu-latest
