@@ -33,10 +33,10 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.0.0](https://github.com/alexandramartinez/datacloud-mulesoft-integration/releases/tag/1.0.0) in [alexandramartinez/datacloud-mulesoft-integration](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
-2. 🔒 Closed issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-3. 🔒 Closed issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-4. ❗ Opened issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-5. ❗ Opened issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+2. 🚀 Published release [v1.0.0](https://github.com/alexandramartinez/datacloud-mulesoft-integration/releases/tag/1.0.0) in [alexandramartinez/datacloud-mulesoft-integration](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
+3. 🚀 Published release [v1.0.0](https://github.com/alexandramartinez/datacloud-mulesoft-integration/releases/tag/1.0.0) in [alexandramartinez/datacloud-mulesoft-integration](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
+4. 🔒 Closed issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+5. 🔒 Closed issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
 <!--END_SECTION:activity-->
 
 
