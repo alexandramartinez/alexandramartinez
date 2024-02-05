@@ -32,11 +32,11 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-2. 🔒 Closed issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-3. ❗ Opened issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-4. ❗ Opened issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
-5. 🔒 Closed issue [#6](https://github.com/ProstDev/blog-posts/issues/6) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+1. 🚀 Published release [v1.0.0](https://github.com/alexandramartinez/datacloud-mulesoft-integration/releases/tag/1.0.0) in [alexandramartinez/datacloud-mulesoft-integration](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
+2. 🔒 Closed issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+3. 🔒 Closed issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+4. ❗ Opened issue [#8](https://github.com/ProstDev/blog-posts/issues/8) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
+5. ❗ Opened issue [#7](https://github.com/ProstDev/blog-posts/issues/7) in [ProstDev/blog-posts](https://github.com/ProstDev/blog-posts)
 <!--END_SECTION:activity-->
 
 
