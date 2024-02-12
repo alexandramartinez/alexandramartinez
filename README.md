@@ -60,6 +60,7 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 ### 🔤 Anypoint Code Builder (ACB) projects
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=datacloud-mulesoft-integration&theme=jolly)](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-dynamodb-to-datacloud&theme=jolly)](https://github.com/alexandramartinez/mule-dynamodb-to-datacloud)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=args-in-acb&theme=jolly)](https://github.com/ProstDev/args-in-acb)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=acb-test123&theme=jolly)](https://github.com/alexandramartinez/acb-test123)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=waffle-house-api&theme=jolly)](https://github.com/alexandramartinez/waffle-house-api)
