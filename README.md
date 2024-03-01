@@ -32,11 +32,11 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.5](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.5) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-2. 🚀 Published release [v3.0.4](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.4) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-3. 🎉 Merged PR [#13](https://github.com/alexandramartinez/mule-battlesnake/pull/13) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-4. 💪 Opened PR [#13](https://github.com/alexandramartinez/mule-battlesnake/pull/13) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-5. 🎉 Merged PR [#12](https://github.com/alexandramartinez/mule-battlesnake/pull/12) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. 🚀 Published release [v3.1.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v.3.1.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+2. 🎉 Merged PR [#15](https://github.com/alexandramartinez/mule-battlesnake/pull/15) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+3. 💪 Opened PR [#15](https://github.com/alexandramartinez/mule-battlesnake/pull/15) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+4. 🚀 Published release [v3.0.5](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.5) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+5. 🚀 Published release [v3.0.4](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.0.4) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
