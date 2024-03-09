@@ -32,11 +32,11 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.1.1](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.1.1) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-2. 🎉 Merged PR [#16](https://github.com/alexandramartinez/mule-battlesnake/pull/16) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-3. 💪 Opened PR [#16](https://github.com/alexandramartinez/mule-battlesnake/pull/16) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-4. 🚀 Published release [v3.1.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v.3.1.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-5. 🎉 Merged PR [#15](https://github.com/alexandramartinez/mule-battlesnake/pull/15) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. 🚀 Published release [v3.2.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.2.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+2. 🎉 Merged PR [#17](https://github.com/alexandramartinez/mule-battlesnake/pull/17) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+3. 💪 Opened PR [#17](https://github.com/alexandramartinez/mule-battlesnake/pull/17) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+4. 🚀 Published release [v3.1.1](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.1.1) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+5. 🎉 Merged PR [#16](https://github.com/alexandramartinez/mule-battlesnake/pull/16) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
