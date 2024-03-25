@@ -71,7 +71,9 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 ◻️ *Ongoing*
 
-Nothing ongoing at the moment
+~ **SEASON 3** ~
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api-s3&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api-s3)
 
 ✅ *Finished*
 
