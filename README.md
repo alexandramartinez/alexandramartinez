@@ -32,11 +32,11 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/rhoegg/anypoint-race-api/issues/13#issuecomment-2018339099) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
-2. 🚀 Published release [v3.2.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.2.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-3. 🎉 Merged PR [#17](https://github.com/alexandramartinez/mule-battlesnake/pull/17) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-4. 💪 Opened PR [#17](https://github.com/alexandramartinez/mule-battlesnake/pull/17) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-5. 🚀 Published release [v3.1.1](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.1.1) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. ❗ Opened issue [#14](https://github.com/rhoegg/anypoint-race-api/issues/14) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
+2. 🗣 Commented on [#13](https://github.com/rhoegg/anypoint-race-api/issues/13#issuecomment-2018339099) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
+3. 🚀 Published release [v3.2.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.2.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+4. 🎉 Merged PR [#17](https://github.com/alexandramartinez/mule-battlesnake/pull/17) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+5. 💪 Opened PR [#17](https://github.com/alexandramartinez/mule-battlesnake/pull/17) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
