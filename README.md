@@ -32,11 +32,11 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 ## :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#210694](https://github.com/microsoft/vscode/issues/210694) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#14](https://github.com/rhoegg/anypoint-race-api/issues/14) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
-3. 🗣 Commented on [#13](https://github.com/rhoegg/anypoint-race-api/issues/13#issuecomment-2018339099) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
-4. 🚀 Published release [v3.2.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.2.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
-5. 🎉 Merged PR [#17](https://github.com/alexandramartinez/mule-battlesnake/pull/17) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
+1. ❗ Opened issue [#1](https://github.com/ProstDev/mulesoft-community-theme/issues/1) in [ProstDev/mulesoft-community-theme](https://github.com/ProstDev/mulesoft-community-theme)
+2. ❗ Opened issue [#210694](https://github.com/microsoft/vscode/issues/210694) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#14](https://github.com/rhoegg/anypoint-race-api/issues/14) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
+4. 🗣 Commented on [#13](https://github.com/rhoegg/anypoint-race-api/issues/13#issuecomment-2018339099) in [rhoegg/anypoint-race-api](https://github.com/rhoegg/anypoint-race-api)
+5. 🚀 Published release [v3.2.0](https://github.com/alexandramartinez/mule-battlesnake/releases/tag/v3.2.0) in [alexandramartinez/mule-battlesnake](https://github.com/alexandramartinez/mule-battlesnake)
 <!--END_SECTION:activity-->
 
 
