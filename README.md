@@ -55,15 +55,47 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 ## Ⓜ️ MuleSoft Repos
 
+**Multiple projects**
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-from-start&theme=jolly)](https://github.com/alexandramartinez/mulesoft-from-start)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=codetober23&theme=jolly)](https://github.com/ProstDev/codetober23)
 
-### 🔤 Anypoint Code Builder (ACB) projects
+**Integrations**
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=datacloud-mulesoft-integration&theme=jolly)](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-dynamodb-to-datacloud&theme=jolly)](https://github.com/alexandramartinez/mule-dynamodb-to-datacloud)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=args-in-acb&theme=jolly)](https://github.com/ProstDev/args-in-acb)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=waffle-house-api&theme=jolly)](https://github.com/alexandramartinez/waffle-house-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=jolly)](https://github.com/alexandramartinez/mule-battlesnake)
+
+**DataWeave**
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2023)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=jolly)](https://github.com/alexandramartinez/dataweave-scripts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=jolly)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-challenges&theme=jolly)](https://github.com/alexandramartinez/dataweave-challenges)
+
+**CI/CD pipelines**
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=jolly)](https://github.com/alexandramartinez/github-actions)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-mfa-cicd&theme=jolly)](https://github.com/alexandramartinez/mulesoft-mfa-cicd)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=jolly)](https://github.com/alexandramartinez/api-catalog-cli-example)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-bat-example&theme=jolly)](https://github.com/alexandramartinez/mule-bat-example)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=jolly)](https://github.com/alexandramartinez/dataweave-utilities-library)
+
+**MUnit**
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=acb-basic-munits&theme=jolly)](https://github.com/alexandramartinez/acb-basic-munits)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=jolly)](https://github.com/alexandramartinez/my-process-api-munits)
+
+**API specs**
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=to-do-api-spec&theme=jolly)](https://github.com/alexandramartinez/to-do-api-spec)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=waffle-house-api&theme=jolly)](https://github.com/alexandramartinez/waffle-house-api)
+
+**Older / deprecated**
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=jolly)](https://github.com/alexandramartinez/slack-maxmanager-app)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=jolly)](https://github.com/alexandramartinez/vampireAPI)
 
 ### 🏎️ Anypoint Speedway
 
@@ -84,26 +116,3 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api)
-
-### 🔁 CI/CD pipelines
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=jolly)](https://github.com/alexandramartinez/github-actions)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-mfa-cicd&theme=jolly)](https://github.com/alexandramartinez/mulesoft-mfa-cicd)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=jolly)](https://github.com/alexandramartinez/api-catalog-cli-example)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-bat-example&theme=jolly)](https://github.com/alexandramartinez/mule-bat-example)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=jolly)](https://github.com/alexandramartinez/dataweave-utilities-library)
-
-### 💙 DataWeave
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2023)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=jolly)](https://github.com/alexandramartinez/dataweave-scripts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=jolly)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-challenges&theme=jolly)](https://github.com/alexandramartinez/dataweave-challenges)
-
-### 💻 Mule apps
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=jolly)](https://github.com/alexandramartinez/mule-battlesnake)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=jolly)](https://github.com/alexandramartinez/my-process-api-munits)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=jolly)](https://github.com/alexandramartinez/slack-maxmanager-app)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=jolly)](https://github.com/alexandramartinez/vampireAPI)
-
