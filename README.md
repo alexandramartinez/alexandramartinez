@@ -87,10 +87,11 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=acb-basic-munits&theme=jolly)](https://github.com/alexandramartinez/acb-basic-munits)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=jolly)](https://github.com/alexandramartinez/my-process-api-munits)
 
-**API specs**
+**Specifications**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=to-do-api-spec&theme=jolly)](https://github.com/alexandramartinez/to-do-api-spec)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=waffle-house-api&theme=jolly)](https://github.com/alexandramartinez/waffle-house-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapi-example&theme=jolly)](https://github.com/alexandramartinez/asyncapi-example)
 
 **Older / deprecated**
 
