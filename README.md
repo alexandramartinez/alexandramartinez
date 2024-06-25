@@ -64,12 +64,9 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=datacloud-mulesoft-integration&theme=jolly)](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-dynamodb-to-datacloud&theme=jolly)](https://github.com/alexandramartinez/mule-dynamodb-to-datacloud)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=jolly)](https://github.com/alexandramartinez/mule-battlesnake)
 
 **DataWeave**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2023)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=jolly)](https://github.com/alexandramartinez/dataweave-scripts)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=jolly)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-challenges&theme=jolly)](https://github.com/alexandramartinez/dataweave-challenges)
@@ -93,27 +90,26 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=waffle-house-api&theme=jolly)](https://github.com/alexandramartinez/waffle-house-api)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapi-example&theme=jolly)](https://github.com/alexandramartinez/asyncapi-example)
 
+**Games**
+
+Advent of Code
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2023)
+
+Anypoint Speedway
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-postman)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api-s3&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api-s3)
+
+Battlesnake
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=jolly)](https://github.com/alexandramartinez/mule-battlesnake)
+
 **Older / deprecated**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=jolly)](https://github.com/alexandramartinez/slack-maxmanager-app)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=jolly)](https://github.com/alexandramartinez/vampireAPI)
 
-### 🏎️ Anypoint Speedway
-
-
-◻️ *Ongoing*
-
-~ **SEASON 3** ~
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api-s3&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api-s3)
-
-✅ *Finished*
-
-~ **SEASON 1** ~
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-postman)
-
-~ **SEASON 2** ~
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api)
