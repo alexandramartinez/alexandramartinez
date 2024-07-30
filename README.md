@@ -60,9 +60,10 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-from-start&theme=jolly)](https://github.com/alexandramartinez/mulesoft-from-start)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=codetober23&theme=jolly)](https://github.com/ProstDev/codetober23)
 
-**Integrations**
+**Data Cloud**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=datacloud-mulesoft-integration&theme=jolly)](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=data-cloud-auth&theme=jolly)](https://github.com/alexandramartinez/data-cloud-auth)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-dynamodb-to-datacloud&theme=jolly)](https://github.com/alexandramartinez/mule-dynamodb-to-datacloud)
 
 **DataWeave**
