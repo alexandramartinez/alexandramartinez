@@ -63,6 +63,7 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 **CI/CD pipelines**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=jolly)](https://github.com/alexandramartinez/github-actions)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=squirrel-app&theme=jolly)](https://github.com/alexandramartinez/squirrel-app)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-mfa-cicd&theme=jolly)](https://github.com/alexandramartinez/mulesoft-mfa-cicd)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=jolly)](https://github.com/alexandramartinez/api-catalog-cli-example)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-bat-example&theme=jolly)](https://github.com/alexandramartinez/mule-bat-example)
