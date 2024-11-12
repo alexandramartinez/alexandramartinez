@@ -86,9 +86,9 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 🎄 Advent of Code
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2023)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2015&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2015)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=neon)](https://github.com/alexandramartinez/adventofcode-2023)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=neon)](https://github.com/alexandramartinez/adventofcode-2022)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2015&theme=neon)](https://github.com/alexandramartinez/adventofcode-2015)
 
 🏎️ Anypoint Speedway
 
