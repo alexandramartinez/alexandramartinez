@@ -103,6 +103,6 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 **Older / deprecated**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=jolly)](https://github.com/alexandramartinez/slack-maxmanager-app)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=jolly)](https://github.com/alexandramartinez/vampireAPI)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=slack-maxmanager-app&theme=shadow_blue)](https://github.com/alexandramartinez/slack-maxmanager-app)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=vampireAPI&theme=shadow_blue)](https://github.com/alexandramartinez/vampireAPI)
 
