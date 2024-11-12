@@ -46,7 +46,11 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-from-start&theme=jolly)](https://github.com/alexandramartinez/mulesoft-from-start)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=codetober23&theme=jolly)](https://github.com/ProstDev/codetober23)
+
+**AsyncAPI**
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapis-accounts-email&theme=jolly)](https://github.com/alexandramartinez/asyncapis-accounts-email)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapi-mule-sfpe&theme=jolly)](https://github.com/alexandramartinez/asyncapi-mule-sfpe)
 
 **Data Cloud**
 
