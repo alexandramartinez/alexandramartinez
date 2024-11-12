@@ -92,10 +92,10 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 🏎️ Anypoint Speedway
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=shadow_red)](https://github.com/alexandramartinez/anypoint-race-api-postman)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=shadow_red)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=shadow_red)](https://github.com/alexandramartinez/anypoint-racer-api)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api-s3&theme=shadow_red)](https://github.com/alexandramartinez/anypoint-racer-api-s3)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=codeSTACKr)](https://github.com/alexandramartinez/anypoint-race-api-postman)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=codeSTACKr)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=codeSTACKr)](https://github.com/alexandramartinez/anypoint-racer-api)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api-s3&theme=codeSTACKr)](https://github.com/alexandramartinez/anypoint-racer-api-s3)
 
 🐍 Battlesnake
 
