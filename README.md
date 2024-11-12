@@ -31,13 +31,7 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 ## ⭐️ GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/alexandramartinez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandramartinez&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true"/>
-<!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexandramartinez&theme=midnight-purple&layout=compact&langs_count=6"/> -->
-  </a>
-</p>
-
+<!-- https://gh-stats-gen.vercel.app/ -->
 ![alexandramartinez's Stats](https://github-readme-stats.vercel.app/api?username=alexandramartinez&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![alexandramartinez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexandramartinez&theme=midnight-purple&hide_border=true)
 
