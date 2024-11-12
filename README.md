@@ -72,8 +72,8 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 **MUnit**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=acb-basic-munits&theme=jolly)](https://github.com/alexandramartinez/acb-basic-munits)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=jolly)](https://github.com/alexandramartinez/my-process-api-munits)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=acb-basic-munits&theme=holi)](https://github.com/alexandramartinez/acb-basic-munits)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits&theme=holi)](https://github.com/alexandramartinez/my-process-api-munits)
 
 **Specifications**
 
