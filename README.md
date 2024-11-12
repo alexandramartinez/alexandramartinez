@@ -83,20 +83,20 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 **Games**
 
-Advent of Code
+🎄 Advent of Code
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2023&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2023)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2022&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2022)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=adventofcode-2015&theme=jolly)](https://github.com/alexandramartinez/adventofcode-2015)
 
-Anypoint Speedway
+🏎️ Anypoint Speedway
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-postman&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-postman)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-race-api-mulesoft&theme=jolly)](https://github.com/alexandramartinez/anypoint-race-api-mulesoft)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=anypoint-racer-api-s3&theme=jolly)](https://github.com/alexandramartinez/anypoint-racer-api-s3)
 
-Battlesnake
+🐍 Battlesnake
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=jolly)](https://github.com/alexandramartinez/mule-battlesnake)
 
