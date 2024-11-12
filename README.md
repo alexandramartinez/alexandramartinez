@@ -46,14 +46,14 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 **AsyncAPI**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapis-accounts-email&theme=jolly)](https://github.com/alexandramartinez/asyncapis-accounts-email)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapi-mule-sfpe&theme=jolly)](https://github.com/alexandramartinez/asyncapi-mule-sfpe)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapis-accounts-email&theme=material-palenight)](https://github.com/alexandramartinez/asyncapis-accounts-email)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapi-mule-sfpe&theme=material-palenight)](https://github.com/alexandramartinez/asyncapi-mule-sfpe)
 
 **Data Cloud**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=datacloud-mulesoft-integration&theme=jolly)](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=data-cloud-auth&theme=jolly)](https://github.com/alexandramartinez/data-cloud-auth)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-dynamodb-to-datacloud&theme=jolly)](https://github.com/alexandramartinez/mule-dynamodb-to-datacloud)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=datacloud-mulesoft-integration&theme=default_repocard)](https://github.com/alexandramartinez/datacloud-mulesoft-integration)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=data-cloud-auth&theme=default_repocard)](https://github.com/alexandramartinez/data-cloud-auth)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-dynamodb-to-datacloud&theme=default_repocard)](https://github.com/alexandramartinez/mule-dynamodb-to-datacloud)
 
 **DataWeave**
 
