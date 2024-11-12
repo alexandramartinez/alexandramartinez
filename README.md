@@ -60,9 +60,9 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 **DataWeave**
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=jolly)](https://github.com/alexandramartinez/dataweave-scripts)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=jolly)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-challenges&theme=jolly)](https://github.com/alexandramartinez/dataweave-challenges)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-scripts&theme=react)](https://github.com/alexandramartinez/dataweave-scripts)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=reviewing-a-complex-dw-transformation-use-case&theme=react)](https://github.com/alexandramartinez/reviewing-a-complex-dw-transformation-use-case)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-challenges&theme=react)](https://github.com/alexandramartinez/dataweave-challenges)
 
 **CI/CD pipelines**
 
