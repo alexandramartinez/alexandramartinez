@@ -78,9 +78,7 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 **Specifications**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=to-do-api-spec&theme=vision-friendly-dark)](https://github.com/alexandramartinez/to-do-api-spec)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=waffle-house-api&theme=vision-friendly-dark)](https://github.com/alexandramartinez/waffle-house-api)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapi-example&theme=vision-friendly-dark)](https://github.com/alexandramartinez/asyncapi-example)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapis-accounts-email&theme=vision-friendly-dark)](https://github.com/alexandramartinez/asyncapis-accounts-email)
 
 **Games**
 
