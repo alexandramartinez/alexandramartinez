@@ -99,7 +99,7 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 
 🐍 Battlesnake
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=jolly)](https://github.com/alexandramartinez/mule-battlesnake)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-battlesnake&theme=chartreuse-dark)](https://github.com/alexandramartinez/mule-battlesnake)
 
 **Older / deprecated**
 
