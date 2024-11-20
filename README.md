@@ -44,6 +44,10 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mulesoft-from-start&theme=jolly)](https://github.com/alexandramartinez/mulesoft-from-start)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=codetober23&theme=jolly)](https://github.com/ProstDev/codetober23)
 
+**AI**
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=mac-ollama-proj&theme=graywhite)](https://github.com/ProstDev/mac-ollama-proj)
+
 **AsyncAPI**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=asyncapis-accounts-email&theme=material-palenight)](https://github.com/alexandramartinez/asyncapis-accounts-email)
