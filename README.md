@@ -47,6 +47,7 @@ Check out my latest content [here](https://www.alexmartinez.ca/home/latest-conte
 **AI**
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ProstDev&repo=mac-ollama-proj&theme=graywhite)](https://github.com/ProstDev/mac-ollama-proj)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=ollama-llm-provider&theme=graywhite)](https://github.com/alexandramartinez/ollama-llm-provider)
 
 **AsyncAPI**
 
