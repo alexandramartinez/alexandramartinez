@@ -21,6 +21,14 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 ---
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ## 📝 Latest Content
 
 <!-- BLOG:START -->
