@@ -9,7 +9,6 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - Published author of [MuleSoft for Salesforce Developers](https://www.amazon.com/Mulesoft-Salesforce-Developers-Architects-practitioners/dp/1801079609/ref=sr_1_3)
 - Check out my [latest content](https://www.alexmartinez.ca/home/latest-content) 😎
 
-</br>
 
   <a href="https://www.prostdev.com/"><img src="https://img.shields.io/badge/-ProstDev-33c4ec?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/alexandra-n-martinez/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
