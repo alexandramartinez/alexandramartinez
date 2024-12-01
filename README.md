@@ -16,10 +16,6 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
   <a href="https://www.twitch.tv/devalexmartinez"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
   <a href="https://www.youtube.com/prostdev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.alexmartinez.ca/links"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
-  <!--  <a href="https://twitter.com/devalexmartinez"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
-  <!--  <a href="https://www.polywork.com/devalexmartinez"><img src="https://img.shields.io/badge/-Polywork-543DE0?style=for-the-badge&logo=Polywork&logoColor=white"/></a> -->
-
----
 
 ## :zap: Recent Activity
 
@@ -28,16 +24,6 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 2. ❗ Opened issue [#65](https://github.com/mulesoft-labs/data-weave-rfc/issues/65) in [mulesoft-labs/data-weave-rfc](https://github.com/mulesoft-labs/data-weave-rfc)
 3. 💪 Opened PR [#41](https://github.com/salesforce/einstein-platform/pull/41) in [salesforce/einstein-platform](https://github.com/salesforce/einstein-platform)
 <!--END_SECTION:activity-->
-
----
-
-## 📝 Latest Content
-
-<!-- BLOG:START -->
-Check out my latest content [here](https://www.alexmartinez.ca/home/latest-content).
-<!-- BLOG:END -->
-
----
 
 ## ⭐️ GitHub Stats
 
