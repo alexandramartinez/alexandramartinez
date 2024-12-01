@@ -9,14 +9,12 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 - Published author of [MuleSoft for Salesforce Developers](https://www.amazon.com/Mulesoft-Salesforce-Developers-Architects-practitioners/dp/1801079609/ref=sr_1_3)
 - Check out my [latest content](https://www.alexmartinez.ca/home/latest-content) 😎
 
-## 👇 Follow me
-
-  <a href="https://www.prostdev.com/"><img src="https://img.shields.io/badge/-ProstDev-33c4ec?style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/alexandra-n-martinez/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/devalexmartinez/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/devalexmartinez"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
-  <a href="https://www.youtube.com/prostdev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://linktr.ee/devalexmartinez"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
+<a href="https://www.prostdev.com/"><img src="https://img.shields.io/badge/-ProstDev-33c4ec?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/alexandra-n-martinez/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/devalexmartinez/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.twitch.tv/devalexmartinez"><img src="https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+<a href="https://www.youtube.com/prostdev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://linktr.ee/devalexmartinez"><img src="https://img.shields.io/badge/-Others-green?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
 
 ## :zap: Recent Activity
 
