@@ -20,9 +20,9 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/mulesoft-labs/data-weave-rfc/issues/65#issuecomment-2504182445) in [mulesoft-labs/data-weave-rfc](https://github.com/mulesoft-labs/data-weave-rfc)
-2. ❗ Opened issue [#65](https://github.com/mulesoft-labs/data-weave-rfc/issues/65) in [mulesoft-labs/data-weave-rfc](https://github.com/mulesoft-labs/data-weave-rfc)
-3. 💪 Opened PR [#41](https://github.com/salesforce/einstein-platform/pull/41) in [salesforce/einstein-platform](https://github.com/salesforce/einstein-platform)
+1. 🎉 Merged PR [#3](https://github.com/alexandramartinez/dataweave-scripts/pull/3) in [alexandramartinez/dataweave-scripts](https://github.com/alexandramartinez/dataweave-scripts)
+2. 💪 Opened PR [#3](https://github.com/alexandramartinez/dataweave-scripts/pull/3) in [alexandramartinez/dataweave-scripts](https://github.com/alexandramartinez/dataweave-scripts)
+3. 🎉 Merged PR [#1](https://github.com/alexandramartinez/adventofcode-2024/pull/1) in [alexandramartinez/adventofcode-2024](https://github.com/alexandramartinez/adventofcode-2024)
 <!--END_SECTION:activity-->
 
 ## ⭐️ GitHub Stats
