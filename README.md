@@ -20,6 +20,12 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#2](https://github.com/ProstDev/prostdev-tools/issues/2) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
+2. ❗ Opened issue [#1](https://github.com/ProstDev/prostdev-tools/issues/1) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
+3. 🎉 Merged PR [#3](https://github.com/alexandramartinez/dataweave-scripts/pull/3) in [alexandramartinez/dataweave-scripts](https://github.com/alexandramartinez/dataweave-scripts)
+4. 💪 Opened PR [#3](https://github.com/alexandramartinez/dataweave-scripts/pull/3) in [alexandramartinez/dataweave-scripts](https://github.com/alexandramartinez/dataweave-scripts)
+5. 🎉 Merged PR [#1](https://github.com/alexandramartinez/adventofcode-2024/pull/1) in [alexandramartinez/adventofcode-2024](https://github.com/alexandramartinez/adventofcode-2024)
+<!--END_SECTION:activity-->
 
 ## ⭐️ GitHub Stats
 
