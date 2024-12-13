@@ -20,11 +20,11 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/ProstDev/prostdev-tools/issues/4) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
-2. ❗ Opened issue [#3](https://github.com/ProstDev/prostdev-tools/issues/3) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
-3. ❗ Opened issue [#2](https://github.com/ProstDev/prostdev-tools/issues/2) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
-4. ❗ Opened issue [#1](https://github.com/ProstDev/prostdev-tools/issues/1) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
-5. 🎉 Merged PR [#3](https://github.com/alexandramartinez/dataweave-scripts/pull/3) in [alexandramartinez/dataweave-scripts](https://github.com/alexandramartinez/dataweave-scripts)
+1. 🗣 Commented on [#3](https://github.com/ProstDev/prostdev-tools/issues/3#issuecomment-2540088471) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
+2. 🔒 Closed issue [#3](https://github.com/ProstDev/prostdev-tools/issues/3) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
+3. ❗ Opened issue [#4](https://github.com/ProstDev/prostdev-tools/issues/4) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
+4. ❗ Opened issue [#3](https://github.com/ProstDev/prostdev-tools/issues/3) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
+5. ❗ Opened issue [#2](https://github.com/ProstDev/prostdev-tools/issues/2) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
 <!--END_SECTION:activity-->
 
 ## ⭐️ GitHub Stats
