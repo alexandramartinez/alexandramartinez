@@ -20,10 +20,10 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ProstDev/prostdev-tools/issues/3#issuecomment-2540088471) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
-2. 🔒 Closed issue [#3](https://github.com/ProstDev/prostdev-tools/issues/3) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
-3. ❗ Opened issue [#4](https://github.com/ProstDev/prostdev-tools/issues/4) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
-4. ❗ Opened issue [#3](https://github.com/ProstDev/prostdev-tools/issues/3) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
+1. ❗ Opened issue [#47](https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/47) in [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
+2. 🗣 Commented on [#8](https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/8#issuecomment-2669717251) in [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
+3. 🗣 Commented on [#12](https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/12#issuecomment-2669715745) in [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
+4. 🗣 Commented on [#36](https://github.com/David-patrick-chuks/Riona-AI-Agent/issues/36#issuecomment-2669701534) in [David-patrick-chuks/Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent)
 5. ❗ Opened issue [#2](https://github.com/ProstDev/prostdev-tools/issues/2) in [ProstDev/prostdev-tools](https://github.com/ProstDev/prostdev-tools)
 <!--END_SECTION:activity-->
 
