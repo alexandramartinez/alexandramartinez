@@ -44,6 +44,7 @@ I'm a Software Engineer who started creating content and is now a Developer Advo
 
 **AI**
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=integrise&repo=mac-project&theme=graywhite)](https://github.com/integrise/mac-project)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=oas-spec-cursorai&theme=vision-friendly-dark)](https://github.com/alexandramartinez/oas-spec-cursorai)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=my-process-api-munits-curietechai&theme=holi)](https://github.com/alexandramartinez/my-process-api-munits-curietechai)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mac-vectors-file-reader&theme=graywhite)](https://github.com/alexandramartinez/mac-vectors-file-reader)
